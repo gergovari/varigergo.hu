@@ -1,169 +1,184 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Vári Gergő | ITT AZ IDŐ</title>
-        <link rel="stylesheet" href="https://varigergo.xyz/bulma.css">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik+Glitch">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">
-        <link href="https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap" rel="stylesheet"> 
-        <link rel="icon" type="image/png" href="https://varigergo.xyz/img/logo-small.ico" />
-        <link rel="icon" type="image/png" href="https://varigergo.xyz/img/logo-small.png" />
-        <style>
-            body {
-                color: #fafad2;
-                font-family: 'Titillium Web', sans-serif;
-            }
-            .navbar {
-                font-family: 'Spartan', sans-serif;
-            }
-            #bg {
-                width: 100vw;
-                height: 100vh;
-                object-fit: cover;
-                position: fixed;
-                top: 0;
-                left: 0;
-                z-index: -1;
-            }
-	.glitch-text {
-		font-family: 'Rubik Glitch'; 
-		font-size: calc(1.25rem + 4vw); 
-		font-weight: light; 
-		user-select: none;
-	}
-    	.stack {
-	  display: grid;
-	  grid-template-columns: 1fr;
-	}
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Vári Gergő | ITT AZ IDŐ</title>
+		<link rel="stylesheet" href="https://varigergo.xyz/bulma.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik+Glitch">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">
+		<link href="https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap" rel="stylesheet"> 
+		<link rel="icon" type="image/png" href="https://varigergo.xyz/img/logo-small.ico" />
+		<link rel="icon" type="image/png" href="https://varigergo.xyz/img/logo-small.png" />
+		<style>
+			body {
+				color: #fafad2;
+				font-family: 'Titillium Web', sans-serif;
+			}
+			.navbar {
+			    font-family: 'Spartan', sans-serif;
+			}
+			#bg {
+				width: 100vw;
+				height: 100vh;
+				object-fit: cover;
+				position: fixed;
+				top: 0;
+				left: 0;
+				z-index: -1;
+			}
+			.glitch-text {
+				font-family: 'Rubik Glitch'; 
+				font-size: calc(1.25rem + 4vw); 
+				font-weight: light; 
+				user-select: none;
+			}
+			.stack {
+				display: grid;
+				grid-template-columns: 1fr;
+			}
 
-	.stack span {
-	  grid-row-start: 1;
-	  grid-column-start: 1;
-	  --stack-height: calc(100% / var(--stacks) - 1px);
-	  --inverse-index: calc(calc(var(--stacks) - 1) - var(--index));
-	  --clip-top: calc(var(--stack-height) * var(--index));
-	  --clip-bottom: calc(var(--stack-height) * var(--inverse-index));
-	  clip-path: inset(var(--clip-top) 0 var(--clip-bottom) 0);
-	  animation: stack 680ms cubic-bezier(.46,.29,0,1.24) 1 backwards calc(var(--index) * 240ms), glitch 1.5s ease infinite 3s alternate-reverse;
-	}
+			.stack span {
+				grid-row-start: 1;
+				grid-column-start: 1;
+				--stack-height: calc(100% / var(--stacks) - 1px);
+				--inverse-index: calc(calc(var(--stacks) - 1) - var(--index));
+				--clip-top: calc(var(--stack-height) * var(--index));
+				--clip-bottom: calc(var(--stack-height) * var(--inverse-index));
+				clip-path: inset(var(--clip-top) 0 var(--clip-bottom) 0);
+				animation: stack 680ms cubic-bezier(.46,.29,0,1.24) 1 backwards calc(var(--index) * 240ms), glitch 1.5s ease infinite 3s alternate-reverse;
+			}
 
-	.stack span:nth-child(odd) { --glitch-translate: 9px; }
-	.stack span:nth-child(even) { --glitch-translate: -17px; }
+			.stack span:nth-child(odd) { --glitch-translate: 9px; }
+			.stack span:nth-child(even) { --glitch-translate: -17px; }
 
-	@keyframes stack {
-	  0% {
-	    opacity: 0;
-	    transform: translate(50%, -50%);
-	    text-shadow: -2px 3px 0 red, 2px -3px 0 blue;
-	  };
-	  60% {
-	    opacity: 0.5;
-	    transform: translateX(-50%, 50%);
-	  }
-	  80% {
-	    transform: none;
-	    opacity: 1;
-	    text-shadow: 2px -3px 0 red, -2px 3px 0 blue;
-	  }
-	  100% {
-	    text-shadow: none;
-	  }
-	}
+			@keyframes stack {
+				0% {
+				    opacity: 0;
+				    transform: translate(50%, -50%);
+				    text-shadow: -2px 3px 0 red, 2px -3px 0 blue;
+				};
+				60% {
+				    opacity: 0.5;
+				    transform: translateX(-50%, 50%);
+				}
+				80% {
+				    transform: none;
+				    opacity: 1;
+				    text-shadow: 2px -3px 0 red, -2px 3px 0 blue;
+				}
+				100% {
+				    text-shadow: none;
+				}
+			}
 
-	@keyframes glitch {
-	  0% {
-	    text-shadow: -2px 3px 0 red, 2px -3px 0 blue;
-	    transform: translate(var(--glitch-translate), -14px);
-	  }
-	  6% {
-	    text-shadow: 2px -3px 0 red, -2px 3px 0 blue;
-	    transform: translate(var(--glitch-translate), 16px);
-	  }
-	  12%, 100% {  text-shadow: none; transform: none; }
-	}
-        </style>
-    </head>
-    <body>
-        <nav class="navbar is-black" role="navigation" aria-label="main navigation">
-            <div class="navbar-brand">
-            <a class="navbar-item" href="./">
-                <img src="./img/logo.png" width="112" height="28">
-            </a>
-	    <script>
-	    	const toggleBurger = () => {
-			let burgerIcon = document.getElementById('burger');
-			let dropMenu = document.getElementById('navbar');
-			burgerIcon.classList.toggle('is-active');
-			dropMenu.classList.toggle('is-active');
-	        };
-	    </script>
-            <a role="button" class="navbar-burger" id="burger" aria-label="menu" aria-expanded="false" data-target="navbar" onclick="toggleBurger()">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-            </div>
-
-            <div id="navbar" class="navbar-menu" style="background-color: black;">
-                <div class="navbar-start">
-                    <a class="navbar-item" href="https://dc.selfimprov.hu">DISCORD SZERVER</a>
-                    <div class="navbar-item has-dropdown is-hoverable">
-                        <a class="navbar-link" style="color: #fafad0;">ÉRJ EL</a>
-                        <style>
-                            .navbar-item {
-                                color: #fafad2;
-                            }
-                        </style>
-                        <div class="navbar-dropdown">
-                            <a class="navbar-item" href="https://www.youtube.com/@gergovari">YouTube</a>
-                            <a class="navbar-item" href="https://rumble.com/user/gergovari">Rumble</a>
-                            <a class="navbar-item" href="https://www.instagram.com/gergo.vari/">Instagram</a>
-                            <a class="navbar-item" href="https://www.tiktok.com/@gergo.vari">TikTok</a>
-                            <a class="navbar-item" href="https://us11.list-manage.com/contact-form?u=30048b300ffcbfa238b616b35&form_id=316eced16f0e2b0943dd672f188e342a">Írj rám</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="navbar-end">
-                    <div class="navbar-item">
-                        <div class="buttons">
-                        <a class="button is-primary" href="http://eepurl.com/iduICr"><strong>TILTOTT GYÜMÖLCS</strong></a>
-                    </div>
-                </div>
-                </div>
-            </div>
-        </nav>
-        <video id="bg" style="position: fixed;" poster="./img/poster.jpg" src="https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/XScreensaver_GLMatrix.webm/XScreensaver_GLMatrix.webm.720p.vp9.webm" autoplay mute loop playsinline></video>
-        <section class="section">
-		<div class="container has-text-centered" style="margin-bottom: calc(-7.5em - 15vw);">
-			<div class="stack has-text-centered" style="--stacks: 3;">
-			    <span style="--index: 0;"><h1 class="title has-text-white glitch-text">KOMPROMIZÁLT<br> VAGY</h1>
-		            <span style="--index: 1;"><h1 class="title has-text-white glitch-text">KOMPROMIZÁLT<br> VAGY</h1>
-			    <span style="--index: 2;"><h1 class="title has-text-white glitch-text">KOMPROMIZÁLT<br> VAGY</h1>
+			@keyframes glitch {
+				0% {
+				    text-shadow: -2px 3px 0 red, 2px -3px 0 blue;
+				    transform: translate(var(--glitch-translate), -14px);
+				}
+				6% {
+				    text-shadow: 2px -3px 0 red, -2px 3px 0 blue;
+				    transform: translate(var(--glitch-translate), 16px);
+				}
+				12%, 100% {  text-shadow: none; transform: none; }
+			}
+		</style>
+	</head>
+	<body>
+		<nav class="navbar is-black" role="navigation" aria-label="main navigation">
+			<div class="navbar-brand">
+				<a class="navbar-item" href="./">
+					<img src="./img/logo.png" width="112" height="28">
+				</a>
+				<script>
+					const toggleBurger = () => {
+						let burgerIcon = document.getElementById('burger');
+						let dropMenu = document.getElementById('navbar');
+						burgerIcon.classList.toggle('is-active');
+						dropMenu.classList.toggle('is-active');
+					};
+				</script>
+				<a role="button" class="navbar-burger" id="burger" aria-label="menu" aria-expanded="false" data-target="navbar" onclick="toggleBurger()">
+					<span aria-hidden="true"></span>
+					<span aria-hidden="true"></span>
+					<span aria-hidden="true"></span>
+				</a>
 			</div>
-		</div>
-            <div class="container has-text-centered">
-                <p class="subtitle has-text-white" style="font-size: calc(1rem + 1.5vw);">Az elméd és a digitális biztonságod is.</p>
-                <p class="subtitle has-text-white" style="font-size: calc(1rem + 2vw);">Gyere, <b>szabaduljunk ki együtt: itt az idő, most vagy soha!</b></p>
-            </div>
-        </section>
-        <section class="section">
-            <div class="container">
-                <div class="columns is-vcentered">
-                    <div class="column has-text-centered">
-                        <iframe class="rumble" style="width: calc(15rem + 20vw); height: calc(8rem + 11vw);" src="https://rumble.com/embed/v1rtmwl/?pub=1jt1r8" frameborder="0" allowfullscreen></iframe>
-                    </div>
-                    <div class="column">
-                        <p class="has-text-white is-size-3" style="background-color: rgba(0, 0, 0, .75); padding: 50px;">Valamilyen módon függsz a technológiától? Online bizniszed van/lesz?<br> <strong class="has-text-white">Bármikor megtámadhatják a kastélyod!</strong></p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="hero" style="height: 800px;">
-            <div class="hero-body" style="width: 100%; height: 100%; background-color: rgba(0, 0, 0, .75);">
-                <iframe src="./signup.html" frameborder="0" scrolling="no" style="width: 100%; height: 50em; background-color: transparent;" allowtransparency="true"></iframe>
-            </div>
-        </section>
-    </body>
+
+			<div id="navbar" class="navbar-menu" style="background-color: black;">
+				<div class="navbar-start">
+					<a class="navbar-item" href="https://dc.selfimprov.hu">DISCORD SZERVER</a>
+					<div class="navbar-item has-dropdown is-hoverable">
+						<a class="navbar-link" style="color: #fafad0;">ÉRJ EL</a>
+						<style>
+							.navbar-item {
+								color: #fafad2;
+							}
+						</style>
+						<div class="navbar-dropdown">
+							<a class="navbar-item" href="https://www.youtube.com/@gergovari">YouTube</a>
+							<a class="navbar-item" href="https://rumble.com/user/gergovari">Rumble</a>
+							<a class="navbar-item" href="https://www.instagram.com/gergo.vari/">Instagram</a>
+							<a class="navbar-item" href="https://www.tiktok.com/@gergo.vari">TikTok</a>
+							<a class="navbar-item" href="https://us11.list-manage.com/contact-form?u=30048b300ffcbfa238b616b35&form_id=316eced16f0e2b0943dd672f188e342a">Írj rám</a>
+						</div>
+					</div>
+				</div>
+				<div class="navbar-end">
+					<div class="navbar-item">
+						<div class="buttons">
+							<a class="button is-primary" href="http://eepurl.com/iduICr"><strong>TILTOTT GYÜMÖLCS</strong></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<video id="bg" style="position: fixed;" poster="./img/poster.jpg" src="https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a7/XScreensaver_GLMatrix.webm/XScreensaver_GLMatrix.webm.720p.vp9.webm" autoplay mute loop playsinline></video>
+		<section class="section">
+			<div class="container has-text-centered" style="margin-bottom: calc(-7.5em - 15vw);">
+				<div class="stack has-text-centered" style="--stacks: 3;">
+					<span style="--index: 0;"><h1 class="title has-text-white glitch-text">KOMPROMIZÁLT<br> VAGY</h1>
+						<span style="--index: 1;"><h1 class="title has-text-white glitch-text">KOMPROMIZÁLT<br> VAGY</h1>
+							<span style="--index: 2;"><h1 class="title has-text-white glitch-text">KOMPROMIZÁLT<br> VAGY</h1>
+				</div>
+			</div>
+			<div class="container has-text-centered">
+				<p class="subtitle has-text-white" style="font-size: calc(1rem + 1.5vw);">Az elméd és a digitális biztonságod is.</p>
+				<p class="subtitle has-text-white" style="font-size: calc(1rem + 2vw);">Gyere, <b>szabaduljunk ki együtt: itt az idő, most vagy soha!</b></p>
+			</div>
+		</section>
+		<section class="section">
+			<div class="container">
+				<div class="columns is-vcentered is-flex-direction-row-reverse">
+					<div class="column">
+						<p class="has-text-white is-size-3" style="background-color: rgba(0, 0, 0, .75); padding: 50px;">
+						Valamilyen módon függsz a technológiától? Online bizniszed van/lesz?<br>
+						<b>Bármikor megtámadhatják a kastélyod!</b>
+						</p>
+					</div>
+					<div class="column has-text-centered">
+						<iframe class="rumble" style="width: calc(15rem + 20vw); height: calc(8rem + 11vw);" src="https://rumble.com/embed/v1rtmwl/?pub=1jt1r8" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="section">
+			<div class="container">
+				<div class="columns is-vcentered">
+					<div class="column">
+						<p class="has-text-white is-size-3" style="background-color: rgba(0, 0, 0, .75); padding: 50px;"><b>Ha nincs egy hálózatod</b> ami előre tud vinni és megvéd, <b>akkor szinte biztos a kudarcod.</b><br>Nem, az ívópajtik nem biztos hogy megfelelőek...</p>
+					</div>
+					<div class="column has-text-centered">
+						<iframe class="rumble" style="width: calc(15rem + 20vw); height: calc(8rem + 11vw);" src="https://rumble.com/embed/v1pt057/?pub=1jt1r8" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="hero" style="height: 800px;">
+			<div class="hero-body" style="width: 100%; height: 100%; background-color: rgba(0, 0, 0, .75);">
+				<iframe src="./signup.html" frameborder="0" scrolling="no" style="width: 100%; height: 50em; background-color: transparent;" allowtransparency="true"></iframe>
+			</div>
+		</section>
+	</body>
 </html>
