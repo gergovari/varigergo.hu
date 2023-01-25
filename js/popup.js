@@ -1,5 +1,3 @@
-import OnLeaveIntent from "./on-leave-intent.js";
-
 function setPopupClass(popup, show) {
 	if (popup) {
 		if (show != popup.className.includes("popup-visible")) {
@@ -26,4 +24,5 @@ function hidePopup(name) {
 	}
 }
 
-const onLeaveIntent = new OnLeaveIntent(showPopup, 3000);
+// FIXME: doesn't trigger
+document.addEventListener('mouseleave', function() { console.log("left"); });
