@@ -1,3 +1,5 @@
+import OnLeaveIntent from "./on-leave-intent.js";
+
 function setPopupClass(popup, show) {
 	if (popup) {
 		if (show != popup.className.includes("popup-visible")) {
@@ -23,3 +25,5 @@ function hidePopup(name) {
 		console.log("showPopup: You need to provide a name!");
 	}
 }
+
+const onLeaveIntent = new OnLeaveIntent(showPopup, 3000);
