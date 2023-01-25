@@ -23,7 +23,7 @@
 	</head>
 	<body style="">
 		<div id="popup-newsletter" class="popup">
-			<span style="float: right; user-select: none; font-size: 45px; margin-right: 30px;">&times;</span>
+			<a onclick="hidePopup('popup-newsletter')" style="color: white;"><span style="float: right; user-select: none; font-size: 45px; margin-right: 30px;">&times;</span></a>
 			<iframe src="./signup.html" frameborder="0" scrolling="no" style="width: 100%; height: 100%; background-color: transparent;" allowtransparency="true"></iframe>
 		</div>
 		<nav class="navbar is-black" role="navigation" aria-label="main navigation">
@@ -81,7 +81,7 @@
 					<a class="navbar-item" href="https://us11.list-manage.com/contact-form?u=30048b300ffcbfa238b616b35&form_id=316eced16f0e2b0943dd672f188e342a">ÍRJ RÁM</a>
 					<div class="navbar-item">
 						<div class="buttons">
-							<a class="button is-primary" href="http://eepurl.com/iduICr"><strong>TILTOTT GYÜMÖLCS</strong></a>
+							<a class="button is-primary" onclick="showPopup('popup-newsletter')"><strong>TILTOTT GYÜMÖLCS</strong></a>
 						</div>
 					</div>
 				</div>
