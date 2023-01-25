@@ -1,0 +1,17 @@
+body {
+	color: #fafad2;
+	font-family: 'Titillium Web', sans-serif;
+}
+#bg {
+	width: 100vw;
+	height: 100vh;
+	object-fit: cover;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+.textbox {
+	background-color: rgba(0, 0, 0, .75);
+	padding: 50px;
+}

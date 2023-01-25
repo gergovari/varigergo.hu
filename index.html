@@ -4,115 +4,23 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Vári Gergő | ITT AZ IDŐ</title>
-		<link rel="stylesheet" href="https://varigergo.xyz/bulma.css">
+
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap"> 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik+Glitch">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">
-		<link href="https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap" rel="stylesheet"> 
-		<link rel="icon" type="image/png" href="https://varigergo.xyz/img/logo-small.ico" />
-		<link rel="icon" type="image/png" href="https://varigergo.xyz/img/logo-small.png" />
-		<style>
-			body {
-				color: #fafad2;
-				font-family: 'Titillium Web', sans-serif;
-			}
-			.navbar {
-			    font-family: 'Spartan', sans-serif;
-			}
-			#bg {
-				width: 100vw;
-				height: 100vh;
-				object-fit: cover;
-				position: fixed;
-				top: 0;
-				left: 0;
-				z-index: -1;
-			}
-			.glitch-text {
-				font-family: 'Rubik Glitch'; 
-				font-size: calc(1.25rem + 4vw); 
-				font-weight: light; 
-				user-select: none;
-			}
-			.textbox {
-				background-color: rgba(0, 0, 0, .75);
-				padding: 50px;
-			}
-			.rumble {
-				width: calc(15rem + 20vw); 
-				height: calc(8rem + 11vw);
-			}
-			.stack {
-				display: grid;
-				grid-template-columns: 1fr;
-			}
 
-			.stack span {
-				grid-row-start: 1;
-				grid-column-start: 1;
-				--stack-height: calc(100% / var(--stacks) - 1px);
-				--inverse-index: calc(calc(var(--stacks) - 1) - var(--index));
-				--clip-top: calc(var(--stack-height) * var(--index));
-				--clip-bottom: calc(var(--stack-height) * var(--inverse-index));
-				clip-path: inset(var(--clip-top) 0 var(--clip-bottom) 0);
-				animation: stack 680ms cubic-bezier(.46,.29,0,1.24) 1 backwards calc(var(--index) * 240ms), glitch 1.5s ease infinite 3s alternate-reverse;
-			}
+		<link rel="icon" type="image/png" href="img/logo-small.ico" />
+		<link rel="icon" type="image/png" href="img/logo-small.png" />
 
-			.stack span:nth-child(odd) { --glitch-translate: 9px; }
-			.stack span:nth-child(even) { --glitch-translate: -17px; }
-
-			@keyframes stack {
-				0% {
-				    opacity: 0;
-				    transform: translate(50%, -50%);
-				    text-shadow: -2px 3px 0 red, 2px -3px 0 blue;
-				};
-				60% {
-				    opacity: 0.5;
-				    transform: translateX(-50%, 50%);
-				}
-				80% {
-				    transform: none;
-				    opacity: 1;
-				    text-shadow: 2px -3px 0 red, -2px 3px 0 blue;
-				}
-				100% {
-				    text-shadow: none;
-				}
-			}
-
-			@keyframes glitch {
-				0% {
-				    text-shadow: -2px 3px 0 red, 2px -3px 0 blue;
-				    transform: translate(var(--glitch-translate), -14px);
-				}
-				6% {
-				    text-shadow: 2px -3px 0 red, -2px 3px 0 blue;
-				    transform: translate(var(--glitch-translate), 16px);
-				}
-				12%, 100% {  text-shadow: none; transform: none; }
-			}
-			#newsletter-popup {
-				display: block; 
-				display: none;
-				width: 100%; 
-				height: 100%;
-				position: fixed; 
-				z-index: 999; 
-				background-color: black; 
-				top: 50%; 
-				left: 50%; 
-				margin-right: -50%; 
-				transform: translate(-50%, -50%);
-			}
-			/*#newsletter-popup {
-				border: 3px solid #fafad2;
-				width: calc(65em + 40vw);
-				height: calc(45em + 5vw);
-			}*/
-		</style>
+		<link rel="stylesheet" href="bulma.css">
+		<link rel="stylesheet" href="css/index.css">
+		<link rel="stylesheet" href="css/navbar.css">
+		<link rel="stylesheet" href="css/glitch.css">
+		<link rel="stylesheet" href="css/rumble.css">
+		<link rel="stylesheet" href="css/popup.css">
 	</head>
 	<body style="">
-		<div id="newsletter-popup">
+		<div class="popup">
 			<span style="float: right; user-select: none; font-size: 45px; margin-right: 30px;">&times;</span>
 			<iframe src="./signup.html" frameborder="0" scrolling="no" style="width: 100%; height: 100%; background-color: transparent;" allowtransparency="true"></iframe>
 		</div>
