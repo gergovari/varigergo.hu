@@ -1,24 +1,22 @@
-function setPopupClass(popup, show) {
-	if (popup) {
-		if (show != popup.className.includes("popup-visible")) {
-				popup.className = (show ? popup.className + " " + "popup-visible" : popup.className.replace(" popup-visible", ""));
-		} else {
-			console.log("setPopupclass: Will not add/remove class twice!")
-		}
+function toggleClass(element, className) {
+	if (element) {
+		element.className = (element.className.includes(className) ? element.className.replace(" " + className, "") : element.className + " " + className);
+		return element.className.includes(className);
 	} else {
-		console.log("setPopupclass: Non-existent popup!")
+		console.log("toggleClass: Non-existent element!");
 	}
 }
-function showPopup(name) {
-	if (name) {
-		setPopupClass(document.getElementById(name), true);
-	} else {
-		console.log("showPopup: You need to provide a name!");
-	}
+
+function togglePopupClass(popup) {
+	return toggleClass(popup, "popup-visible");
 }
-function hidePopup(name) {
+function toggleScroll() {
+	return toggleClass(document.documentElement, "no-scroll");
+}
+
+function togglePopup(name) {
 	if (name) {
-		setPopupClass(document.getElementById(name), false);
+		toggleScroll(togglePopupClass(document.getElementById(name)));
 	} else {
 		console.log("showPopup: You need to provide a name!");
 	}
