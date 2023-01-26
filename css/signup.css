@@ -1,0 +1,26 @@
+* {
+	font-family: 'Rajdhani', sans-serif;
+}
+.label {
+	color: white;
+}
+.title {
+	font-family: 'Chakra Petch', sans-serif;
+	color: white;
+}
+.subtitle {
+	color: white;
+}
+body {
+	background-color: transparent;
+}
+html {
+	background-color: transparent;
+}
+.asterisk {
+	color: #ff1111;
+}
+#mc-embedded-subscribe {
+	background-color: #ff1111;
+	color: white;
+}

@@ -23,17 +23,17 @@
 @keyframes stack {
 	0% {
 	    opacity: 0;
-	    transform: translate(50%, -50%);
-	    text-shadow: -2px 3px 0 red, 2px -3px 0 blue;
+	    transform: translate(34%, -54%);
+	    text-shadow: -2px 3px 0 #ff1111, 2px -3px 0 #007aff;
 	};
 	60% {
 	    opacity: 0.5;
-	    transform: translateX(-50%, 50%);
+	    transform: translateX(-42%, 79%);
 	}
 	80% {
 	    transform: none;
 	    opacity: 1;
-	    text-shadow: 2px -3px 0 red, -2px 3px 0 blue;
+	    text-shadow: 3px -6px 0 #ff1111, -4px 5px 0 #007aff;
 	}
 	100% {
 	    text-shadow: none;
@@ -41,11 +41,11 @@
 }
 @keyframes glitch {
 	0% {
-	    text-shadow: -2px 3px 0 red, 2px -3px 0 blue;
+	    text-shadow: -7px 3px 0 #ff1111, 2px -6px 0 #007aff;
 	    transform: translate(var(--glitch-translate), -14px);
 	}
 	6% {
-	    text-shadow: 2px -3px 0 red, -2px 3px 0 blue;
+	    text-shadow: 6px -3px 0 #ff1111, -1px 5px 0 #007aff;
 	    transform: translate(var(--glitch-translate), 16px);
 	}
 	12%, 100% {  text-shadow: none; transform: none; }

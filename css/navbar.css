@@ -1,3 +1,33 @@
 .navbar {
-    font-family: 'Spartan', sans-serif;
+	font-family: 'Chakra Petch', sans-serif;
+	font-weight: bold;
+}
+
+.navbar-menu {
+	background-color: black;
+}
+
+.navbar-item {
+	color: white;
+}
+
+.navbar-item:hover {
+	background-color: #02d7f2 !important;
+}
+
+.navbar-link:hover {
+	background-color: #02d7f2 !important;
+}
+
+.navbar-button:hover {
+	background-color: black !important;
+}
+
+.navbar-logo {
+	font-size: 32px !important;
+}
+
+.navbar-logo:hover {
+	background-color: #ff1111 !important;
+
 }
