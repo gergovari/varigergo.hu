@@ -35,11 +35,9 @@ body {
 	padding: 60px;
 	color: black;
 	text-align: justify;
-	transform: skew(-20deg);
 	margin-right: 50px;
 	margin-left: 60px;
 }
 
 .text {
-	transform: skew(20deg);
 }
