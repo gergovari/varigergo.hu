@@ -1,26 +1,64 @@
-* {
-	font-family: 'Rajdhani', sans-serif;
-}
-.label {
-	color: white;
-}
 .title {
 	font-family: 'Chakra Petch', sans-serif;
 	color: white;
 }
-.subtitle {
-	color: white;
-}
-body {
-	background-color: transparent;
-}
-html {
-	background-color: transparent;
-}
+
 .asterisk {
 	color: #ff1111;
 }
+
+.mc_embed_signup {
+	background-color: black;
+	padding: 50px;
+	border: 5px solid white;
+	width: 100%;
+	height: 100%;
+}
+
+.input {
+	background-color: black;
+	border: 0px;
+	border-bottom: 2px solid #007aff;
+}
+
+.input:focus {
+	border-bottom: 2px solid #f2e900;
+	color: #02d7f2;
+}
+.input:hover {
+	border-bottom: 2px solid #02d7f2;
+}
+
+
+.input::placeholder {
+	color: #007aff;
+	opacity: 1;
+}
+.input:hover::placeholder {
+	color: #02d7f2;
+}
+.input:focus::placeholder {
+	color: #f2e900;
+}
+
+.required::placeholder {
+	font-weight: bold;
+}
+
 #mc-embedded-subscribe {
-	background-color: #ff1111;
-	color: white;
+	background-color: black;
+	color: #007aff;
+	border: 5px solid white;
+}
+
+#mc-embedded-subscribe:hover {
+	background-color: black;
+	color: #f2e900;
+	border: 5px solid white;
+}
+
+#mc-embedded-subscribe {
+	background-color: black;
+	color: #02d7f2;
+	border: 5px solid white;
 }
