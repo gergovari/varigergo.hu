@@ -7,6 +7,12 @@
 	color: white !important;
 }
 
+@media (min-width: 1200px) and (min-height: 800px) { 
+	.submit-container {
+		margin-top: 50px;
+	}
+}
+
 .asterisk {
 	color: #ff1111;
 }
