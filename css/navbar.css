@@ -11,10 +11,6 @@
 	color: white;
 }
 
-.navbar-item:hover {
-	background-color: #02d7f2 !important;
-}
-
 .navbar-link:hover {
 	background-color: #02d7f2 !important;
 }
