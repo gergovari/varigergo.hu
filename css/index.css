@@ -21,7 +21,7 @@ body {
 }
 
 .section1 {
-	--padding: calc(2rem + 5vw);
+	--padding: calc(.1rem + 2vw);
 	background-color: #f2e900;
 }
 .section1 .columns {
@@ -33,12 +33,13 @@ body {
 }
 .section1 .column {
 	padding: 0 !important;
+	margin-left: var(--margin-bottom);
+	margin-right: var(--margin-bottom);
 }
 .section1 .columns .column .item {
 	--side-margin: calc(.75rem + 2vw);
 	background-color: #02d7f2;
 	border: 5px solid black;
-	max-width: calc(20rem + 25vw) !important; 
 	margin: 0 auto;
 	margin-bottom: var(--margin-bottom);
 	padding: .75rem;
