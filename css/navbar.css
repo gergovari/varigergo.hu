@@ -11,6 +11,12 @@
 	color: white;
 }
 
+@media (min-width: 1200px) and (min-height: 800px) { 
+	.navbar-item:hover {
+		background-color: #02d7f2 !important;
+	}
+}
+
 .navbar-link:hover {
 	background-color: #02d7f2 !important;
 }
