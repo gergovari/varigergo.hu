@@ -16,6 +16,7 @@
 	left: 50%; 
 	margin-right: -50%; 
 	transform: translate(-50%, -50%);
+	border: 2px solid white;
 }
 @media (min-width: 1200px) and (min-height: 800px) { 
 	.popup {

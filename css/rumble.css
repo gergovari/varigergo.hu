@@ -1,5 +1,5 @@
 .rumble {
-	width: calc(15rem + 20vw); 
-	height: calc(8rem + 11vw);
-	border: 5px solid white;
+	width: 100%; 
+	aspect-ratio: 16 / 9;
+	margin-bottom: 30px;
 }

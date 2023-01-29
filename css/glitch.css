@@ -3,10 +3,10 @@
 	grid-template-columns: 1fr;
 }
 .glitch-text {
-	font-family: 'Rubik Glitch'; 
 	font-size: calc(1.25rem + 4vw); 
 	font-weight: light; 
 	user-select: none;
+	color: white !important;
 }
 .stack span {
 	grid-row-start: 1;
