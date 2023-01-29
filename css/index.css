@@ -3,17 +3,32 @@ body {
 	color: black;
 }
 
+.title {
+	font-family: 'Chakra Petch';
+	font-size: calc(2rem + 3vw);
+}
+.subtitle {
+	font-size: calc(1rem + 1vw);
+}
+
 .section0 {
 	background-color: black;
 	width: 100%;
 	padding: 50px;
 }
+.section0 .subtitle {
+	color: white !important;
+}
 
 .section1 {
 	background-color: #f2e900;
 }
-
-.item {
+.section1 .columns {
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 30px;
+}
+.section1 .columns .column .item {
 	background-color: #02d7f2;
 	border: 5px solid black;
 	max-width: calc(20rem + 30vw) !important; 
@@ -21,27 +36,10 @@ body {
 	padding: 20px;
 	margin-bottom: 30px;
 }
-
-.columns {
-	padding-left: 200px;
-	padding-right: 200px;
-	padding-top: 30px;
-}
-
-
-.title {
-	font-family: 'Chakra Petch';
-	font-size: calc(2rem + 3vw);
-}
-.item .title {
+.section1 .columns .column .item .title {
 	color: black !important;
 }
-
-.section0 .subtitle {
-	color: white !important;
-}
-
-.text {
+.section1 .columns .column .item .text {
 	margin-top: 30px;
 	font-size: 32px;
 	margin: 0 auto;
