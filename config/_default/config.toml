@@ -2,4 +2,4 @@ baseURL = 'https://varigergo.hu'
 languageCode = 'hu-HU'
 title = 'Vári Gergő | AZ UTOLSÓ ESÉLYED'
 
-
+theme = "vyberpunk"
