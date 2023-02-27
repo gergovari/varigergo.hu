@@ -3,22 +3,27 @@
 	font-weight: bold;
 }
 
-.navbar-menu {
+.navbar-menu, .navbar-dropdown {
 	background-color: black;
 }
 
-.navbar-item {
+.navbar-item, .navbar-link {
+	background-color: black !important;
 	color: white;
 }
 
-@media (min-width: 1200px) and (min-height: 800px) { 
-	.navbar-item:hover {
-		background-color: #02d7f2 !important;
-	}
+.navbar-link:not(.is-arrowless)::after {
+	border-color: white;
+}
+
+.navbar-item:hover {
+	background-color: #02d7f2 !important;
+	color: white;
 }
 
 .navbar-link:hover {
 	background-color: #02d7f2 !important;
+	color: white !important;
 }
 
 .navbar-button:hover {
@@ -30,6 +35,7 @@
 }
 
 .navbar-logo:hover {
-	background-color: #ff1111 !important;
+	background-color: black !important;
+	color: #02d7f2 !important;
 
 }
