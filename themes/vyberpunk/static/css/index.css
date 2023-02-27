@@ -13,12 +13,17 @@ body {
 	color: black !important;
 }
 
+.glitch-container {
+	margin-bottom: calc(-10em)
+}
+
 .title {
 	font-family: 'Chakra Petch';
 	font-size: calc(2rem + 3vw);
 }
 .subtitle {
 	font-size: calc(1rem + 1vw);
+	color: white;
 }
 
 .section0 {
