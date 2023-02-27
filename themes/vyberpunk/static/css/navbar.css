@@ -18,7 +18,7 @@
 
 .navbar-item:hover {
 	background-color: #02d7f2 !important;
-	color: white;
+	color: white !important;
 }
 
 .navbar-link:hover {

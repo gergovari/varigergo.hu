@@ -8,6 +8,11 @@ body {
 	color: black;
 }
 
+.button.is-primary {
+	background-color: #f2e900 !important;
+	color: black !important;
+}
+
 .title {
 	font-family: 'Chakra Petch';
 	font-size: calc(2rem + 3vw);
