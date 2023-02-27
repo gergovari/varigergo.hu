@@ -1,0 +1,11 @@
+{{ define "main" }}
+	<section class="section">
+		{{ partial "glitch-text" (dict "ctx" . "text" "KOMPROMIZALT VAGY") }}
+	</section>
+	<section class="hero">
+		<div class="hero-body">
+		{{ partial "newsletter-signup" . }}
+		</div>
+	</section>
+	<!-- {{ partial "newsletter-popup" }} -->
+{{ end }}
