@@ -3,8 +3,12 @@
 	font-weight: bold;
 }
 
-.navbar-menu, .navbar-dropdown {
+.navbar-menu, .navbar-dropdown, .navbar-brand {
 	background-color: black;
+}
+
+.navbar-burger {
+	color: white;
 }
 
 .navbar-item, .navbar-link {
