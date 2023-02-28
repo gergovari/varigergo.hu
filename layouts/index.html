@@ -10,39 +10,7 @@
 		</div>
 	</section>
 	<section class="hero section1" style="margin-bottom: 100px;">
-			<div class="columns is-vcentered">
-				<div class="column">
-					<div class="item">
-						{{ partial "rumble" 
-							(dict 
-							"ctx" . 
-							"embed" "v1rtmwl/?pub=1jt1r8" 
-							"title" "ROMOKBAN A DIGITÁLIS ÉLETED!" 
-							"text" "Valamilyen módon függsz a technológiától? Online bizniszed van/lesz? Sajnos a kibervédelem sok helyen el van hanyagolva: ameddig meg nem történik a baj... Bármikor támadás érheti a kastélyod!") 
-						}}
-					</div>
-					<div class="item">
-						{{ partial "rumble" 
-							(dict 
-							"ctx" . 
-							"embed" "v23yk2s/?pub=1jt2gi" 
-							"title" "AZ AUTOMATIZÁLÁS ALAPKÖVE." 
-							"text" "Elég gyorsan eljutsz arra a szintre amikor automatizálod az életed hogy valami komolyabbat is csinálnod kell: ami már igényli a programozást. Segítek elindulni neked!") 
-						}}
-					</div>
-				</div>
-				<div class="column">
-					<div class="item">
-						{{ partial "rumble" 
-							(dict 
-							"ctx" . 
-							"embed" "v21qe2k/?pub=1jt2gi" 
-							"title" "MINDEN VPN EGY ÁTVERÉS!" 
-							"text" "Ne hagyd magad becsapni a hamis marketing állításokkal: az életedbe is kerülhet. A mai interneten nincs már anonimitás. Persze attól még lehet mire használni ezt a technológiát... Építsd ki a saját infrastruktúrád!") 
-						}}
-					</div>
-				</div>
-			</div>
+		{{ partial "videos" . }}
 	</section>
 	<!-- {{ partial "newsletter-popup" }} -->
 {{ end }}
