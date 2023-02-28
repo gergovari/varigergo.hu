@@ -1,44 +1,4 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
-	<div class="navbar-brand">
-		<a class="navbar-logo navbar-item" href="./">🛡️ <i>Vári</i></a>
-		<script>
-			const toggleBurger = () => {
-				let burgerIcon = document.getElementById('burger');
-				let dropMenu = document.getElementById('navbar');
-				burgerIcon.classList.toggle('is-active');
-				dropMenu.classList.toggle('is-active');
-			};
-		</script>
-		<a role="button" class="navbar-burger" id="burger" aria-label="menu" aria-expanded="false" data-target="navbar" onclick="toggleBurger()">
-			<span aria-hidden="true"></span>
-			<span aria-hidden="true"></span>
-			<span aria-hidden="true"></span>
-		</a>
-	</div>
-	<div id="navbar" class="navbar-menu">
-		<div class="navbar-start">
-			{{ range .Site.Menus.main }}
-				{{ if .HasChildren }}
-					<div class="navbar-item has-dropdown is-hoverable">
-						<a class="navbar-link" href="{{ .URL }}">{{ .Name }}</a>
-						<div class="navbar-dropdown">
-							{{ range .Children }}
-								<a class="navbar-item" href="{{ .URL }}">{{ .Name }}</a>
-							{{ end }}
-						</div>
-					</div>
-				{{ else }}
-					<a class="navbar-item" href="{{ .URL }}">{{ .Name }}</a>
-				{{ end }}
-			{{ end }}
-		</div>
-		<div class="navbar-end">
-			<a class="navbar-item" href="https://us11.list-manage.com/contact-form?u=30048b300ffcbfa238b616b35&form_id=316eced16f0e2b0943dd672f188e342a">ÍRJ RÁM</a>
-			<div class="navbar-button navbar-item">
-				<div class="buttons">
-					<a class="button is-primary" onclick="togglePopup('popup-newsletter')"><strong>AZ UTOLSÓ ESÉLYED</strong></a>
-				</div>
-			</div>
-		</div>
-	</div>
+	{{ partial "navbar/brand" . }}
+	{{ partial "navbar/menu" . }}
 </nav>
