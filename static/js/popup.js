@@ -42,11 +42,24 @@ function togglePopup(name) {
 	}
 }
 
-var isPopupShot = false;
+var isPopupShotAtExit = false;
 document.addEventListener('mouseout', e => {
-    if (!e.toElement && !e.relatedTarget && !isPopupShot && !isVisibleByName('popup-newsletter', "popup-visible")) {
+    if (!e.toElement 
+	&& !e.relatedTarget 
+	&& !isPopupShotAtExit 
+	&& !isVisibleByName('popup-newsletter', "popup-visible")) {
 	togglePopup("popup-newsletter");
-	isPopupShot = true;
+	isPopupShotAtExit = true;
     }
 });
 
+var isPopupShotAtEnd = false;
+window.onscroll = function(ev) {
+	if ((window.innerHeight + window.pageYOffset) >= document.body.offsetHeight - 5) {
+		if (!isPopupShotAtEnd 
+		&& !isVisibleByName('popup-newsletter', "popup-visible")) {
+			togglePopup("popup-newsletter");
+			isPopupShotAtEnd = true;
+		}
+	}
+};
