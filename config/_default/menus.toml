@@ -1,0 +1,47 @@
+[[main]]
+	name = "discord szerver"
+	url = "https://dc.selfimprov.hu"
+	weight = 1
+
+[[main]]
+	name = "tartalom"
+	weight = 10
+[[main]]
+	name = "youtube"
+	url = "https://www.youtube.com/@gergovari"
+	weight = 12
+	parent = "tartalom"
+[[main]]
+	name = "rumble"
+	url = "https://rumble.com/user/gergovari"
+	weight = 14
+	parent = "tartalom"
+[[main]]
+	name = "odysee"
+	url = "https://odysee.com/$/invite/@gergovari:5"
+	weight = 16
+	parent = "tartalom"
+[[main]]
+	name = "instagram"
+	url = "https://www.instagram.com/gergo.vari/"
+	weight = 18
+	parent = "tartalom"
+[[main]]
+	name = "tiktok"
+	url = "https://www.tiktok.com/@gergo.vari"
+	weight = 19
+	parent = "tartalom"
+
+[[main]]
+	name = "portfolió"
+	weight = 20
+[[main]]
+	name = "github"
+	url = "https://www.github.com/gergovari"
+	weight = 24
+	parent = "portfolió"
+[[main]]
+	name = "linkedin"
+	url = "https://www.linkedin.com/in/varigergo"
+	weight = 26
+	parent = "portfolió"
