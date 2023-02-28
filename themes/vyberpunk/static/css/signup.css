@@ -1,5 +1,7 @@
 .newsletter-signup {
 	background-color: black;
+	--signup-padding: 60px;
+	padding: var(--signup-padding);
 }
 
 .newsletter-signup .asterisk {
