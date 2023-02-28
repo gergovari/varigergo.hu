@@ -1,19 +1,28 @@
-function isPopupVisible(name) {
+function isVisible(element, className) {
+	if (element) {
+		return element.className.includes(className);
+	} else {
+		console.log("isVisible: Non-existent element!")
+	}
+}
+
+function isVisibleByName(name, className) {
 	let element = document.getElementById(name);
 	if (element) {
-		return element.className.includes("popup-visible");
+		return element.className.includes(className);
 	} else {
-		console.log("isPopupVisible: Non-existent element!")
+		console.log("isPopupVisible: Element " + name + " does not exist!")
 		return false;
 	}
 }
 
 function toggleClass(element, className) {
 	if (element) {
-		element.className = isPopupVisible(element.id) ? element.className.replace(" " + className, "") : element.className + " " + className;
-		return element.className.includes(className);
+		element.className = isVisible(element, className) ? element.className.replace(" " + className, "") : element.className + " " + className;
+		return isVisible(element, className);
 	} else {
 		console.log("toggleClass: Non-existent element!");
+		return false;
 	}
 }
 
@@ -35,7 +44,7 @@ function togglePopup(name) {
 
 var isPopupShot = false;
 document.addEventListener('mouseout', e => {
-    if (!e.toElement && !e.relatedTarget && !isPopupShot && !isPopupVisible('popup-newsletter')) {
+    if (!e.toElement && !e.relatedTarget && !isPopupShot && !isVisibleByName('popup-newsletter', "popup-visible")) {
 	togglePopup("popup-newsletter");
 	isPopupShot = true;
     }
