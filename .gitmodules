@@ -1,0 +1,3 @@
+[submodule "themes/vyberpunk"]
+	path = themes/vyberpunk
+	url = https://github.com/gergovari/vyberpunk
