@@ -1,0 +1,16 @@
+{{ define "main" }}
+	<section class="section has-text-centered">
+		{{ partial "glitch-text" (dict "ctx" . "text" "VESZÉLYBEN A DIGITÁLIS ÉLETED") }}
+		<p class="subtitle">Mióta az eszemet tudom számítógépekkel foglalkozom.</p>
+		<p class="subtitle">Tanulj a legjobbaktól.</p>
+	</section>
+	<section class="hero">
+		<div class="hero-body">
+		{{ partial "newsletter-signup" . }}
+		</div>
+	</section>
+	<section class="hero section1" style="margin-bottom: 100px;">
+		{{ partial "videos" . }}
+	</section>
+	{{ partial "newsletter-popup" }}
+{{ end }}
