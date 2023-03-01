@@ -22,11 +22,6 @@
 	weight = 16
 	parent = "tartalom"
 [[start]]
-	name = "instagram"
-	url = "https://www.instagram.com/gergo.vari/"
-	weight = 18
-	parent = "tartalom"
-[[start]]
 	name = "tiktok"
 	url = "https://www.tiktok.com/@gergo.vari"
 	weight = 19
