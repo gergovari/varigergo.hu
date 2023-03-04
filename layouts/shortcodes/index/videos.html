@@ -1,17 +1,21 @@
 <div class="columns is-vcentered">
-	<div class="column">
-		{{ range .Site.RegularPages.ByWeight }}
-			{{ if eq .Type "videos" }}
-				<div class="item">
-					{{ partial "rumble" 
-						(dict 
-						"ctx" . 
-						"embed" .Params.embed 
-						"title" .Title
-						"text" .Content)
-					}}
-				</div>
+	{{ range $i := (seq 2) }}
+		<div class="column">
+			{{ range $.Site.RegularPages.ByWeight }}
+				{{ if eq .Type "videos" }}
+					{{ if eq $i .Params.columnId }}
+						<div class="item">
+							{{ partial "rumble" 
+								(dict 
+								"ctx" . 
+								"embed" .Params.embed 
+								"title" .Title
+								"text" .Content)
+							}}
+						</div>
+					{{ end }}
+				{{ end }}
 			{{ end }}
-		{{ end }}
-	</div>
+		</div>
+	{{ end }}
 </div>
