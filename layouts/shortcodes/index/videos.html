@@ -8,7 +8,8 @@
 							{{ partial "rumble" 
 								(dict 
 								"ctx" . 
-								"embed" .Params.embed 
+								"pub" .Params.pub
+								"video" .Params.video 
 								"title" .Title
 								"text" .Content)
 							}}
