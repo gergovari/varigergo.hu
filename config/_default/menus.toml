@@ -4,6 +4,11 @@
 	weight = 1
 
 [[start]]
+	name = "blogom"
+	weight = 5
+	url = "https://blog.varigergo.hu"
+
+[[start]]
 	name = "tartalom"
 	weight = 10
 [[start]]
