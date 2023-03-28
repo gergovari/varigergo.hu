@@ -2,6 +2,9 @@ baseURL = 'https://varigergo.hu/'
 languageCode = 'hu-HU'
 title = 'Vári Gergő'
 
+[module]
+[[module.imports]]
+	path = "https://github.com/gergovari/vyberpunk"
 theme = "vyberpunk"
 
 [params.matomo]
