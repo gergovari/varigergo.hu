@@ -4,7 +4,7 @@ title = 'Vári Gergő'
 
 [module]
 [[module.imports]]
-	path = "https://github.com/gergovari/vyberpunk"
+	path = "github.com/gergovari/vyberpunk"
 theme = "vyberpunk"
 
 [params.matomo]
