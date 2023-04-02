@@ -1,8 +1,7 @@
 ---
 title: "Ha Digitálisan NEM Éreznéd Magad Biztonságban..."
-payLink: "https://buy.stripe.com/test_eVa7whafE9YNccE7st"
+id: "digital-security-course"
 preorder: True
-promocode: "PREORDER"
 origPrice: 39998
 price: 19999
 ---
