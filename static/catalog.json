@@ -1,0 +1,9 @@
+{
+	"testId": {
+		"price": 99998,
+		"discountedPrice": 49999
+	},
+	"testId2": {
+		"price": 50000
+	}
+}
