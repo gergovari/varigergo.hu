@@ -3,5 +3,20 @@
 		"name": "Digitális Kontroll Kurzus",
 		"price": 39998,
 		"discountedPrice": 19999
+	},
+	"test0": {
+		"name": "test0",
+		"price": 39998,
+		"discountedPrice": 19999
+	},
+	"test1": {
+		"name": "test1",
+		"price": 39998,
+		"discountedPrice": 19999
+	},
+	"test2": {
+		"name": "test2",
+		"price": 39998,
+		"discountedPrice": 19999
 	}
 }
