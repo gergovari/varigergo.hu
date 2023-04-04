@@ -4,25 +4,5 @@
 		"price": 39998,
 		"discountedPrice": 19999,
 		"maxAmount": 1
-	},
-	"test0": {
-		"name": "test0",
-		"price": 39998,
-		"discountedPrice": 19999
-	},
-	"test1": {
-		"name": "test1",
-		"price": 39998,
-		"discountedPrice": 19999
-	},
-	"test2": {
-		"name": "test2",
-		"price": 39998,
-		"discountedPrice": 19999
-	},
-	"test3": {
-		"name": "test3",
-		"price": 39998,
-		"discountedPrice": 19999
 	}
 }
