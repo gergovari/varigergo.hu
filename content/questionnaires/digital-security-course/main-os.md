@@ -4,16 +4,16 @@ weight: 10
 ---
 # Milyen operációs rendszert használsz leggyakrabban?
 
-{{< questionnaire/radio "main-os" "Windows" "windows" >}}
+{{< questionnaire/radio "mainos1" "Windows" "windows" >}}
 
-{{< questionnaire/radio "main-os" "Android" "android" >}}
+{{< questionnaire/radio "mainos1" "Android" "android" >}}
 
-{{< questionnaire/radio "main-os" "MacOS" "macos" >}}
+{{< questionnaire/radio "mainos1" "MacOS" "macos" >}}
 
-{{< questionnaire/radio "main-os" "iOS" "ios" >}}
+{{< questionnaire/radio "mainos1" "iOS" "ios" >}}
 
-{{< questionnaire/radio "main-os" "Linux" "linux" >}}
+{{< questionnaire/radio "mainos1" "Linux" "linux" >}}
  
-{{< questionnaire/radio "main-os" "BSD" "bsd" >}}
+{{< questionnaire/radio "mainos1" "BSD" "bsd" >}}
 
-{{< questionnaire/radio "main-os" "Egyéb" "other" >}}
+{{< questionnaire/radio "mainos1" "Egyéb" "other" >}}

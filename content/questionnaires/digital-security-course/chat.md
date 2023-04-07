@@ -4,26 +4,26 @@ weight: 20
 ---
 # Mely chat szolgáltatásokat használod napi szinten?
 
-{{< questionnaire/checkbox "main-chat" "Messenger" "messenger" >}}
+{{< questionnaire/checkbox "mainchat1" "Messenger" "messenger" >}}
 
-{{< questionnaire/checkbox "main-chat" "WhatsApp" "whatsapp" >}}
+{{< questionnaire/checkbox "mainchat1" "WhatsApp" "whatsapp" >}}
 
-{{< questionnaire/checkbox "main-chat" "Instagram" "instagram" >}}
+{{< questionnaire/checkbox "mainchat1" "Instagram" "instagram" >}}
 
-{{< questionnaire/checkbox "main-chat" "Snapchat" "snapchat" >}}
+{{< questionnaire/checkbox "mainchat1" "Snapchat" "snapchat" >}}
 
-{{< questionnaire/checkbox "main-chat" "Discord" "discord" >}}
+{{< questionnaire/checkbox "mainchat1" "Discord" "discord" >}}
 
-{{< questionnaire/checkbox "main-chat" "BeReal" "bereal" >}}
+{{< questionnaire/checkbox "mainchat1" "BeReal" "bereal" >}}
 
-{{< questionnaire/checkbox "main-chat" "Tinder" "tinder" >}}
+{{< questionnaire/checkbox "mainchat1" "Tinder" "tinder" >}}
 
-{{< questionnaire/checkbox "main-chat" "Telegram" "telegram" >}}
+{{< questionnaire/checkbox "mainchat1" "Telegram" "telegram" >}}
 
-{{< questionnaire/checkbox "main-chat" "Matrix/Element" "matrix" >}}
+{{< questionnaire/checkbox "mainchat1" "Matrix/Element" "matrix" >}}
 
-{{< questionnaire/checkbox "main-chat" "XMPP" "xmpp" >}}
+{{< questionnaire/checkbox "mainchat1" "XMPP" "xmpp" >}}
 
-{{< questionnaire/checkbox "main-chat" "IRC" "irc" >}}
+{{< questionnaire/checkbox "mainchat1" "IRC" "irc" >}}
 
-{{< questionnaire/checkbox "main-chat" "Egyéb" "other" >}}
+{{< questionnaire/checkbox "mainchat1" "Egyéb" "other" >}}
