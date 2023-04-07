@@ -10,3 +10,8 @@ theme = "vyberpunk"
 [params.matomo]
 url = "https://matomo.varigergo.hu"
 id = 1
+
+[params.stripe]
+key = "pk_test_51MqVpzDJeSyRUjQeXckxIaDFRQEIqsdrwUQkcqMRswoAfDxwfjHKTWXnrHk4faya7Jo1nwvcSDEPi7chIiquEBWs00kB3a8QUQ"
+backendUrl = "https://stripe.varigergo.hu"
+doneUrl = "https://varigergo.hu/checkout-done/stripe"
