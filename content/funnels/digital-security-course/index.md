@@ -16,7 +16,7 @@ Ez egy új lehetőség: nem arról fogok beszélni csak hogy "legyen egy hosszú
 ## Megmutatom neked a TITKOS Trükköket amiket a cégek NEM akarnak hogy tudj
 Nagyon sok helyen el lehet botolni és annak sok, rossz következménye lehet. Nálam van szinte az összes tudás ami neked az egész életedben kellhet: viszont először meg kell tudnom hol is vannak a problémás pontok. A kurzus most van készülőben: méghozzá a TE véleményed alapján. Valahányotok egy kérdőíven keresztül jutott ide. Ha előrendeled a kurzusom, közvetlen kapcsolatba kerülhetsz velem: így garantálhatom a sikeredet.
 
-    ## Amit BIZTOS hogy megtanulsz
+## Amit BIZTOS hogy megtanulsz
 - Alaptudás hogy felismerd az átveréseket (**60 000Ft**)
 - Otthoni/saját VPN elkészítése (**130 000Ft** + évente **100 000Ft** megspórólva)
     - Otthoni szerver/VPS felállítása
