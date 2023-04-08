@@ -6,5 +6,3 @@ weight: 0
 
 Elküldök neked egy listát, amire mindig számíthatsz. Kövesd az utasításokat, és biztos lehetsz a digitális biztonságodban.
 Csak töltsd ki ezt a nagyon rövid kérdőívet (a lenti sárga gombbal) és már sínen is vagy!
-
-[A weboldalam](https://varigergo.hu)
