@@ -11,10 +11,9 @@ weight: 12
         {{< questionnaire/checkbox "topic" "Decentralizáció" "crypto-decentralization" >}}
         {{< questionnaire/checkbox "topic" "Vásárlás, kereskedés" "crypto-business" >}}
         {{< questionnaire/checkbox "topic" "Saját valuta készítése" "crypto-own" >}}
-        {{< questionnaire/checkbox "topic" "Több fajta bemutatása, különbségeik" "crypto-types" >}}
         {{< questionnaire/checkbox "topic" "Kripto specifikus biztonság" "crypto-security" >}}
         {{< questionnaire/checkbox "topic" "Tárolás" "crypto-storage" >}}
-        {{< questionnaire/checkbox "topic" "Müködési elve(ik)" "crypto-works" >}}
+        {{< questionnaire/checkbox "topic" "Müködési elve(ik), különbségeik" "crypto-works" >}}
         {{< questionnaire/checkbox "topic" "Adózás, legalitás" "crypto-legal" >}}
         {{< questionnaire/checkbox "topic" "Okos szerződések" "crypto-smartcontracts" >}}
     {{< /column >}}
