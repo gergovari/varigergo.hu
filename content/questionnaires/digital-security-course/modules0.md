@@ -3,35 +3,45 @@ title: "Témák"
 weight: 12
 ---
 # Mely témák foglalkoztatnak téged?
-{{< columns vcentered=True >}}
+{{< columns vcentered=true >}}
     {{< column >}}
-        <h2>Kriptovaluta</h2>
-        {{< questionnaire/checkbox "topic" "Befektetés" "crypto-investment" >}}
-        {{< questionnaire/checkbox "topic" "Bányászat" "crypto-mining" >}}
-        {{< questionnaire/checkbox "topic" "Decentralizáció" "crypto-decentralization" >}}
-        {{< questionnaire/checkbox "topic" "Vásárlás, kereskedés" "crypto-business" >}}
-        {{< questionnaire/checkbox "topic" "Saját valuta készítése" "crypto-own" >}}
-        {{< questionnaire/checkbox "topic" "Kripto specifikus biztonság" "crypto-security" >}}
-        {{< questionnaire/checkbox "topic" "Tárolás" "crypto-storage" >}}
-        {{< questionnaire/checkbox "topic" "Müködési elve(ik), különbségeik" "crypto-works" >}}
-        {{< questionnaire/checkbox "topic" "Adózás, legalitás" "crypto-legal" >}}
-        {{< questionnaire/checkbox "topic" "Okos szerződések" "crypto-smartcontracts" >}}
+        {{< questionnaire/group >}}
+            {{< questionnaire/group >}}
+                <h2>Kriptovaluta</h2>
+                {{< questionnaire/checkbox "topic" "Befektetés, vásárlás-eladás, kereskedés" "crypto-trading" >}}
+                {{< questionnaire/checkbox "topic" "Okos szerződések, NFT-k..." "crypto-extra" >}}
+                {{< questionnaire/checkbox "topic" "Bányászat" "crypto-mining" >}}
+                {{< questionnaire/checkbox "topic" "Biztonságos használat, tárolás" "crypto-security" >}}
+                {{< questionnaire/checkbox "topic" "Müködési elveik, különbségeik" "crypto-works" >}}
+                {{< questionnaire/checkbox "topic" "Saját valuta készítése" "crypto-own" >}}
+                {{< questionnaire/checkbox "topic" "Adózás, legalitás" "crypto-legal" >}}
+            {{< /questionnaire/group >}}
+            {{< questionnaire/group >}}
+                <h2>Automatizálás</h2>
+                {{< questionnaire/checkbox "topic" "Alapok" "automate-basics" >}}
+                {{< questionnaire/checkbox "topic" "A te feladataid" "automate-their" >}}
+                {{< questionnaire/checkbox "topic" "Okos-otthon" "automate-smarthome" >}}
+            {{< /questionnaire/group >}}
+        {{< /questionnaire/group >}}
     {{< /column >}}
     {{< column >}}
-        <h2>Biztonság</h2>
-        {{< questionnaire/checkbox "topic" "Bevezetés, alapok" "security-basics" >}}
-        {{< questionnaire/checkbox "topic" "Adatvédelem" "security-data" >}}
-        {{< questionnaire/checkbox "topic" "Átverések felismerése" "security-scams" >}}
-        {{< questionnaire/checkbox "topic" "Vírusok, zsarolóprogramok, ..." "security-viruses" >}}
-        {{< questionnaire/checkbox "topic" "Adatmentés, biztonsági mentések..." "security-backups" >}}
-        {{< questionnaire/checkbox "topic" "Fiókjaid kezelése" "security-accounts" >}}
-        {{< questionnaire/checkbox "topic" "Biztonságos otthoni hálozat" "security-home" >}}
-        {{< questionnaire/checkbox "topic" "Eszközeid biztonságossá tétele" "security-devices" >}}
-        {{< questionnaire/checkbox "topic" "Biztonságos böngészés" "security-browsing" >}}
-        {{< questionnaire/checkbox "topic" "Biztonságos kommunikáció" "security-communication" >}}
-        {{< questionnaire/checkbox "topic" "Okostelefonod biztonságossá tétele" "security-smartphone" >}}
-        {{< questionnaire/checkbox "topic" "VPN-ek" "security-vpn" >}}
-        {{< questionnaire/checkbox "topic" "Otthoni VPN felállítása" "security-homevpn" >}}
-        {{< questionnaire/checkbox "topic" "Digitális jogaid" "security-rights" >}}
+        {{< questionnaire/group >}}
+            {{< questionnaire/group >}}
+                <h2>Biztonság</h2>
+                {{< questionnaire/checkbox "topic" "Bevezetés, átverések, vírusok..." "security-basics" >}}
+                {{< questionnaire/checkbox "topic" "Fiókjaid kezelése, adatvédelem, jogaid" "security-privacy" >}}
+                {{< questionnaire/checkbox "topic" "Eszközeid biztonságossá tétele" "security-devices" >}}
+                {{< questionnaire/checkbox "topic" "Saját VPN felállítása" "security-vpn" >}}
+                {{< questionnaire/checkbox "topic" "Biztonságos böngészés" "security-browsing" >}}
+                {{< questionnaire/checkbox "topic" "Biztonságos kommunikáció" "security-communication" >}}
+                {{< questionnaire/checkbox "topic" "Adatmentés, biztonsági mentések..." "security-backups" >}}
+            {{< /questionnaire/group >}}
+            {{< questionnaire/group >}}
+                <h2>Saját infrastruktúra</h2>
+                {{< questionnaire/checkbox "topic" "Otthoni szolgáltatások" "infra-home" >}}
+                {{< questionnaire/checkbox "topic" "Vállalkozásod függetlenítése" "infra-business" >}}
+                {{< questionnaire/checkbox "topic" "Centralizáció, decentralizáció" "infra-decentralization" >}}
+            {{< /questionnaire/group >}}
+        {{< /questionnaire/group >}}
     {{< /column >}}
 {{< /columns >}}
