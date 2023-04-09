@@ -4,5 +4,9 @@
 		"price": 39998,
 		"discountedPrice": 19997,
 		"maxAmount": 1
+	},
+	"candy": {
+		"name": "Cukorka",
+		"price": 200
 	}
 }
