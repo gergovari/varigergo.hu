@@ -2,6 +2,9 @@ baseURL = 'https://varigergo.hu/'
 languageCode = 'hu-HU'
 title = 'Vári Gergő'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [module]
 [[module.imports]]
 path = "github.com/gergovari/vyberpunk"
