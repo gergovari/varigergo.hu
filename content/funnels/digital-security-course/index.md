@@ -1,6 +1,7 @@
 ---
 title: "Ha Digitálisan NEM Éreznéd Magad Biztonságban..."
 id: "digital-security-course"
+colorId: 0
 preorder: True
 ---
 ...akkor itt megmutatom hogyan vedd vissza az irányítást.

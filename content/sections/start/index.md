@@ -1,6 +1,5 @@
 ---
 title: "A kezdetek..."
-id: 2
 customClass: "columns is-vcentered"
 outsideTitle: true
 ---

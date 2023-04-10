@@ -16,3 +16,10 @@ key = "pk_live_51MqVpzDJeSyRUjQe1jZ8WNZbhEaLL9QeZeJ4Svfkh7GM6n6va4IVRXLksYKePwL2
 #key = "pk_test_51MqVpzDJeSyRUjQeXckxIaDFRQEIqsdrwUQkcqMRswoAfDxwfjHKTWXnrHk4faya7Jo1nwvcSDEPi7chIiquEBWs00kB3a8QUQ"
 backendUrl = "https://stripe.varigergo.hu"
 doneUrl = "https://varigergo.hu/checkout-done/stripe"
+
+[params.colors]
+	bg = "#0d0d0d"
+	text = "#f2f2f2"
+	accent = "#590202"
+	accent1 = "#F23D3D"
+	accent2 = "#F20505"
