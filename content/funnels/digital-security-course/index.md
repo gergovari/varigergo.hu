@@ -12,7 +12,7 @@ Tanulj olyantól aki már bejárta az utat.
 
 {{< columns vcentered=True >}}
     {{< column >}}
-# Hogyan...
+        <h1>Hogyan?</h1>
     {{< /column >}}
     {{% column size="is-three-quarters" %}}
 - Szerezd meg a tudásod {{< highlight >}}hozzád hasonló érdeklődéskörű{{< /highlight >}} tanulókkal és velem.
@@ -21,9 +21,19 @@ Tanulj olyantól aki már bejárta az utat.
     {{% /column %}}
 {{< /columns >}}
 
+{{< gallery >}}
+
+# Mit kapsz?
+{{< section align="center" >}}
+    {{< funnels/stack >}}
+        {{< funnels/stack/item price=60000 >}}Alaptudás hogy felismerd az átveréseket{{< /funnels/stack/item >}}
+        {{< funnels/stack/item price=200000 >}}Saját infrastruktúrád kiépítése{{< /funnels/stack/item >}}
+        {{< funnels/stack/item price=10000 >}}{{< highlight >}}EXKLÚZÍV{{< /highlight >}} chat szoba hozzáférés{{< /funnels/stack/item >}}
+        {{< funnels/stack/item price=60000 >}}{{< highlight >}}Biztonságos{{< /highlight >}}/anonim böngészés{{< /funnels/stack/item >}}
+        {{< funnels/stack/item price=100000 >}}Operációs rendszered {{< highlight >}}biztonságossá{{< /highlight >}} tétele{{< /funnels/stack/item >}}
+    {{< /funnels/stack >}}
+{{< /section >}}
 {{< funnels/payButton >}}
 
-{{< funnels/stack >}}
-    {{< funnels/stack/item price=60000 >}}Alaptudás hogy felismerd az átveréseket{{< /funnels/stack/item >}}
-    {{< funnels/stack/item price=200000 >}}Saját infrastruktúrád kiépítése{{< /funnels/stack/item >}}
-{{< /funnels/stack >}}
+# Kockázatmentes vásárlás
+Ha nem tetszik a kurzus vagy nem azt kaptad amit vártál, 30 napon belül visszafizetem a pénzed: csak egy e-mailt kell írnod.
