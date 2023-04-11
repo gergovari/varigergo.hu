@@ -5,7 +5,7 @@ colorId: 0
 preorder: True
 noNavbar: True
 ---
-# Ha szeretnéd visszavenni az {{< highlight >}}irányítást{{< /highlight >}} a {{< highlight >}}Digitális Életed{{< /highlight >}} felett...
+# Ha szeretnéd megépíteni {{< highlight >}}saját{{< /highlight >}} {{< highlight >}}Digitális Váradat{{< /highlight >}}...
 Tanulj olyantól aki már bejárta az utat.
 
 {{< youtube "ePMfwHAHXFM" >}}
@@ -23,7 +23,7 @@ Tanulj olyantól aki már bejárta az utat.
 
 {{< gallery >}}
 
-# Mit kapsz?
+# Mit tanulsz meg?
 {{< section align="center" >}}
     {{< funnels/stack >}}
         {{< funnels/stack/item price=60000 >}}Alaptudás hogy felismerd az átveréseket{{< /funnels/stack/item >}}
