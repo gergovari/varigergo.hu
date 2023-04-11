@@ -36,4 +36,11 @@ Tanulj olyantól aki már bejárta az utat.
 {{< funnels/payButton >}}
 
 # Kockázatmentes vásárlás
+{{< columns vcentered=True >}}
+    {{< column size="is-four-fifths" >}}
 Ha nem tetszik a kurzus vagy nem azt kaptad amit vártál, 30 napon belül visszafizetem a pénzed: csak egy e-mailt kell írnod.
+    {{< /column >}}
+    {{< column >}}
+        {{< img name="30day.svg" global=True svg=True id=" day30" >}}
+    {{< /column >}}
+{{< /columns >}}
