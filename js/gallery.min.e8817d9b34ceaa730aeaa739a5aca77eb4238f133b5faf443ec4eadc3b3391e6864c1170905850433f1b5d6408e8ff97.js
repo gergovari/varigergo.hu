@@ -1,0 +1,1 @@
+window.addEventListener("DOMContentLoaded",function(){const e=new Swiper(".swiper",{slidesPerView:3,spaceBetween:20,pagination:{el:".swiper-pagination"}})})
