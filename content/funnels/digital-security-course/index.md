@@ -33,6 +33,7 @@ Tanulj olyantól aki már bejárta az utat.
         {{< funnels/stack/item price=100000 >}}Operációs rendszered {{< highlight >}}biztonságossá{{< /highlight >}} tétele{{< /funnels/stack/item >}}
     {{< /funnels/stack >}}
 {{< /section >}}
+
 {{< funnels/payButton >}}
 
 # Kockázatmentes vásárlás
