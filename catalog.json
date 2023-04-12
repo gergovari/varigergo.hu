@@ -5,6 +5,11 @@
 		"discountedPrice": 19997,
 		"maxAmount": 1
 	},
+	"n8n-automation": {
+		"name": "Automatizálás Kurzus",
+		"price": 2997,
+		"maxAmount": 1
+	},
 	"candy": {
 		"name": "Cukorka",
 		"price": 200

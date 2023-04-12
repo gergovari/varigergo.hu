@@ -1,1 +1,0 @@
-const observer=new IntersectionObserver(e=>{e.forEach(e=>{e.isIntersecting&&e.target.classList.add("animate-slidein")})});function setupObserver(){document.querySelectorAll("h1, .stack-offer").forEach(e=>{observer.observe(e)})}document.addEventListener("DOMContentLoaded",function(){setupObserver()}),setupObserver()
