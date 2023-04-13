@@ -17,9 +17,9 @@ weight: 5
             {{< /questionnaire/group >}}
             {{< questionnaire/group >}}
                 <h2>Nem</h2>       
-                {{< questionnaire/radio "gender" "Férfi" "male" >}}
-                {{< questionnaire/radio "gender" "Nő" "female" >}}
-                {{< questionnaire/radio "gender" "Egyéb" "other" >}}
+                {{< questionnaire/radio "gender1" "Férfi" "male" >}}
+                {{< questionnaire/radio "gender1" "Nő" "female" >}}
+                {{< questionnaire/radio "gender1" "Egyéb" "other" >}}
             {{< /questionnaire/group >}}
         {{< /questionnaire/group >}}
     {{< /column >}}
