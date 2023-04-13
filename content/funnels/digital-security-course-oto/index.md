@@ -1,5 +1,5 @@
 ---
-title: "Automatizálás, rendesen..."
+title: "Digitális Kontroll Kurzus"
 id: "digital-security-course"
 colorId: 0
 preorder: True

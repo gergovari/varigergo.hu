@@ -1,0 +1,7 @@
+---
+title: "Bevezetés"
+weight: 0
+---
+# Mit tudsz az automatizálásról?
+
+Mutasd meg mennyire értesz az automatizáláshoz! Ezek a kérdések felmérik a kompentenciád e téren.
