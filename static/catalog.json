@@ -1,13 +1,14 @@
 {
 	"digital-security-course": {
 		"name": "Digitális Kontroll Kurzus",
-		"price": 39998,
+		"price": 40000,
 		"discountedPrice": 19997,
 		"maxAmount": 1
 	},
 	"n8n-automation": {
 		"name": "Automatizálás Kurzus",
-		"price": 2997,
+		"price": 60000,
+		"discountedPrice": 2997,
 		"maxAmount": 1
 	},
 	"candy": {
