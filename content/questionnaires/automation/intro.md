@@ -1,6 +1,5 @@
 ---
 title: "Bevezetés"
-weight: 0
 ---
 # Mit tudsz az automatizálásról?
 
