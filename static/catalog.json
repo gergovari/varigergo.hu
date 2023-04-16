@@ -1,7 +1,7 @@
 {
 	"digital-security-course": {
 		"name": "Digitális Kontroll Kurzus",
-		"price": 40000,
+		"price": 80000,
 		"discountedPrice": 19997,
 		"maxAmount": 1
 	},
