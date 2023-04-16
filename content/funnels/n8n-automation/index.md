@@ -54,6 +54,6 @@ Legyél hatásos ÉS hatékony, használd fel az összes eszközt amit lehet: mi
 Ha nem tetszik a kurzus vagy nem azt kaptad amit vártál, 30 napon belül visszafizetem a pénzed: csak egy e-mailt kell írnod.
     {{< /column >}}
     {{< column >}}
-        {{< img name="30day.svg" global=True svg=True id=" day30" >}}
+        {{< img name="30day.svg" global=True svg=True id=" day30" width="100%" height="100%" >}}
     {{< /column >}}
 {{< /columns >}}
