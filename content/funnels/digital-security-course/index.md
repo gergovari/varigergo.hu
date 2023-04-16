@@ -8,7 +8,7 @@ noNavbar: True
 # Ha szeretnéd megépíteni {{< highlight >}}saját{{< /highlight >}} {{< highlight >}}Digitális Váradat{{< /highlight >}}...
 Tanulj olyantól aki már bejárta az utat.
 
-{{< youtube "ePMfwHAHXFM" >}}
+{{< youtube "ePMfwHAHXFM" "align-center" >}}
 
 {{< columns vcentered=True >}}
     {{< column >}}
