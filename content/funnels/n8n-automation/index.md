@@ -12,7 +12,7 @@ redirect_up: "/funnels/digital-security-course-oto"
 ## {{< highlight >}}Szerezd meg{{< /highlight >}} a szoftvert, felállításának és használatának tudását {{< highlight >}}amivel a következő szintre emelhedet a bizniszed{{< /highlight >}}!
 ## Mindössze CSAK MOST {{< highlight >}}{{< funnels/price >}}{{< /highlight >}}-ért.
 
-{{< youtube "QfjWS5p29EU" "align-center" >}}
+{{< youtube "QfjWS5p29EU" "align-center" true >}}
 
 {{< columns vcentered=True >}}
     {{< column >}}
