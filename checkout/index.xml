@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fizetési lehetőségek on Vári Gergő</title><link>https://varigergo.hu/checkout/</link><description>Recent content in Fizetési lehetőségek on Vári Gergő</description><generator>Hugo -- gohugo.io</generator><language>hu-HU</language><atom:link href="https://varigergo.hu/checkout/index.xml" rel="self" type="application/rss+xml"/><item><title>Stripe</title><link>https://varigergo.hu/checkout/stripe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/checkout/stripe/</guid><description> Fizetés</description></item><item><title>Egyéb fizetési módok</title><link>https://varigergo.hu/checkout/other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/checkout/other/</guid><description>Elfogadok szinte bármit fizetőeszközként, keress meg bátran (work@varigergo.hu) az ajánlatoddal.
-Másold be/fotózd le/&amp;hellip; a kosarad tartalmát a gyorsabb ügyintézéshez.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Fizetési lehetőségek on Vári Gergő</title><link>https://varigergo.hu/checkout/</link><description>Recent content in Fizetési lehetőségek on Vári Gergő</description><generator>Hugo -- gohugo.io</generator><language>hu-HU</language><atom:link href="https://varigergo.hu/checkout/index.xml" rel="self" type="application/rss+xml"/><item><title>Stripe</title><link>https://varigergo.hu/checkout/stripe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/checkout/stripe/</guid><description> Fizetés</description><content:encoded><![CDATA[<script src="https://js.stripe.com/v3/"></script>
+
+
+
+<script async src="/js/checkout/stripe.min.7d0a81a85e748452a9793bd93d8181b7e9eb03a43750d3fef4180f0f2aec7b0582f9c91b53bc7636ea93ebb03ebca003.js" data-key="pk_live_51MqVpzDJeSyRUjQe1jZ8WNZbhEaLL9QeZeJ4Svfkh7GM6n6va4IVRXLksYKePwL20WN71qwYdJMq85ploaYQAn5t005fDtR25L" data-backend="https://stripe.varigergo.hu" data-done="https://varigergo.hu/checkout-done/stripe" data-color-bg="#0d0d0d" data-color-text="#f2f2f2" data-color-accent="#590202" data-color-placeholder="#f2f2f2" integrity="sha384-fQqBqF50hFKpeTvZPYGBt&#43;nrA6Q3UNP&#43;9BgPDyrsewWC&#43;ckbU7x2NuqT67A&#43;vKAD"></script>
+
+<div class="payment-holder payment-container">
+	<form id="payment-form">
+		<div id="link-authentication-element"></div>
+		<div id="payment-element"></div>
+		<button id="submit" class="button">
+			<div class="spinner hidden" id="spinner"></div>
+			<span id="button-text">Fizetés</span>
+		</button>
+		<div id="payment-message" class="hidden"></div>
+	</form>
+</div>
+
+]]></content:encoded></item><item><title>Egyéb fizetési módok</title><link>https://varigergo.hu/checkout/other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/checkout/other/</guid><description>Elfogadok szinte bármit fizetőeszközként, keress meg bátran (work@varigergo.hu) az ajánlatoddal.
+Másold be/fotózd le/&amp;hellip; a kosarad tartalmát a gyorsabb ügyintézéshez.</description><content:encoded><![CDATA[<p>Elfogadok szinte bármit fizetőeszközként, keress meg bátran (<strong><a href="mailto:work@varigergo.hu">work@varigergo.hu</a></strong>) az ajánlatoddal.</p>
+<p>Másold be/fotózd le/&hellip; a kosarad tartalmát a gyorsabb ügyintézéshez.</p>
+]]></content:encoded></item></channel></rss>
