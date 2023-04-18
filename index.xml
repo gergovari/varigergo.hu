@@ -219,7 +219,7 @@ A cégek már rájöttek hogy szeretjük az &amp;ldquo;ingyen&amp;rdquo; dolgoka
 
 
 
-<script async src="/js/checkout/stripe.min.7d0a81a85e748452a9793bd93d8181b7e9eb03a43750d3fef4180f0f2aec7b0582f9c91b53bc7636ea93ebb03ebca003.js" data-key="pk_live_51MqVpzDJeSyRUjQe1jZ8WNZbhEaLL9QeZeJ4Svfkh7GM6n6va4IVRXLksYKePwL20WN71qwYdJMq85ploaYQAn5t005fDtR25L" data-backend="https://stripe.varigergo.hu" data-done="https://varigergo.hu/checkout-done/stripe" data-color-bg="#0d0d0d" data-color-text="#f2f2f2" data-color-accent="#590202" data-color-placeholder="#f2f2f2" integrity="sha384-fQqBqF50hFKpeTvZPYGBt&#43;nrA6Q3UNP&#43;9BgPDyrsewWC&#43;ckbU7x2NuqT67A&#43;vKAD"></script>
+<script async src="/js/checkout/stripe.min.e10ecc83f31529380c5d7de49cd736699bac1be44e573ad2fc3a5e9b079143ea68277ff7d99c0c38b1c823c63156ed59.js" data-key="pk_live_51MqVpzDJeSyRUjQe1jZ8WNZbhEaLL9QeZeJ4Svfkh7GM6n6va4IVRXLksYKePwL20WN71qwYdJMq85ploaYQAn5t005fDtR25L" data-backend="https://stripe.varigergo.hu" data-done="https://varigergo.hu/checkout-done/stripe" data-color-bg="#0d0d0d" data-color-text="#f2f2f2" data-color-accent="#590202" data-color-placeholder="#f2f2f2" integrity="sha384-4Q7Mg/MVKTgMXX3knNc2aZusG&#43;ROVzrS/DpemweRQ&#43;poJ3/32ZwMOLHII8YxVu1Z"></script>
 
 <div class="payment-holder payment-container">
 	<form id="payment-form">
