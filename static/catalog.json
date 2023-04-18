@@ -11,13 +11,14 @@
 		"discountedPrice": 2997,
 		"maxAmount": 1,
 		"bumps": [
-			"extra-material"
+			"extra-material-n8n-automation"
 		]
 	},
-	"extra-material": {
+	"extra-material-n8n-automation": {
 		"name": "Segédanyagok",
 		"description": "Konfigurációs fájlok, plusz cikkek, segédek...",
-		"price": 12997
+		"price": 12997,
+		"maxAmount": 1
 	},
 	"candy": {
 		"name": "Cukorka",
