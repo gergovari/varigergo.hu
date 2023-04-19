@@ -1,7 +1,7 @@
 # **{{< highlight >}}INGYENES{{< /highlight >}}** kurzus: Hogyan Építsd Ki a **Saját Marketing Infrastruktúrád** Anélkül Hogy Rászorulnál Bárkire
 {{< columns vcentered=true >}}
     {{< column >}}
-<p>Mielőtt elindítom ezt a kurzusomat <strong>{{< highlight >}}60 000 Ft-ért{{< /highlight >}}</strong>, szeretném letesztelni hogy minden érthető és müködőképes -e.</p>
+<p>Mielőtt elindítom ezt a kurzusomat <strong>{{< highlight >}}60 000 Ft-ért{{< /highlight >}}</strong>, szeretném letesztelni hogy minden érthető és működőképes -e.</p>
 
 <p>Ha most megteszel nekem <strong>CSAK annyit hogy felteszed a legnagyobb kérdésed</strong> a témával kapcsolatban, {{< highlight >}}<strong>INGYENES</strong>{{< /highlight >}} hozzáférést fogsz kapni a tanagyahoz.</p>
 
