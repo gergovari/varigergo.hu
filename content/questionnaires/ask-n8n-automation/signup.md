@@ -3,7 +3,7 @@
     {{< column >}}
 <p>Mielőtt elindítom ezt a kurzusomat <strong>{{< highlight >}}60 000 Ft-ért{{< /highlight >}}</strong>, szeretném letesztelni hogy minden érthető és működőképes -e.</p>
 
-<p>Ha most megteszel nekem <strong>CSAK annyit hogy felteszed a legnagyobb kérdésed</strong> a témával kapcsolatban, {{< highlight >}}<strong>INGYENES</strong>{{< /highlight >}} hozzáférést fogsz kapni a tanagyahoz.</p>
+<p>Ha most megteszel nekem <strong>CSAK annyit hogy felteszed a legnagyobb kérdésed</strong> a témával kapcsolatban, {{< highlight >}}<strong>INGYENES</strong>{{< /highlight >}} hozzáférést fogsz kapni a tananyaghoz.</p>
 
 <h2>A helyedben SIETNÉK mert csak {{< highlight >}}100 FŐ{{< /highlight >}} élhet ezzel a lehetőséggel!</h2>
     {{< /column >}}
