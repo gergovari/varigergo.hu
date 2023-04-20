@@ -8,7 +8,7 @@ desc: "Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer,
 {{< /section >}}
 
 {{< section color=0 >}}
-    {{< newsletter >}}
+    {{< signup "newsletter" >}}
 {{< /section >}}
 
 {{< section color=1 >}}
