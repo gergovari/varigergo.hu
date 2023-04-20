@@ -21,8 +21,11 @@ desc: "Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer,
     <h1 class="title">Digitális Lázadás</h1>
     ...avagy az elveim amiket te is elsajátíthatsz.
     {{< youtube "ePMfwHAHXFM" "align-center" >}}
-    <span class="decorate-link"><a href="/digitalrebel/manifesto-poster.png">Poszter (8.5 x 11)</a></span>
-    <span class="decorate-link"><a href="/digitalrebel/manifesto-mobile.png">Telefon háttérkép</a></span>
+    <span class="decorate-link has-text-centered">
+        <a href="https://blog.varigergo.hu/posts/digital-rebel">Blog poszt</a><br />
+        <a href="/digitalrebel/manifesto-poster.png">Poszter (8.5 x 11)</a>
+        <a href="/digitalrebel/manifesto-mobile.png">Telefon háttérkép</a>
+    </span>
 {{< /section >}}
 
 {{< section color=1 >}}
