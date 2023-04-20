@@ -7,17 +7,23 @@ desc: "Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer,
     {{< index/title "DIGITÁLIS LÁZADÁS" "Mióta az eszemet tudom számítógépekkel foglalkozom." "Tanulj a legjobbaktól." >}}
 {{< /section >}}
 
-{{< section color=0 >}}
+{{< section color=1 >}}
     {{< signup "newsletter" >}}
 {{< /section >}}
 
-{{< section color=1 >}}
-    {{< img name="microphone.png" id=0 nolazy=true >}}
-    <h1 class="title">Ki is vagyok?</h1>
-    Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer, üzletember, programozó, varázsló, testépítő, rendszergazda...
+{{< section color=0 >}}
+    {{< columns vcentered=true >}}
+        {{< column >}}
+            <h1 class="title">Ki is vagyok?</h1>
+            {{< img name="microphone.png" nolazy=true >}}
+        {{< /column >}}
+        {{< column >}}
+            Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer, üzletember, programozó, varázsló, testépítő, rendszergazda...
+        {{< /column >}}
+    {{< /columns >}}
 {{< /section >}}
 
-{{< section color=0 class="is-flex is-flex-direction-column is-align-items-center" >}}
+{{< section color=1 class="is-flex is-flex-direction-column is-align-items-center" >}}
     <h1 class="title">Digitális Lázadás</h1>
     ...avagy az elveim amiket te is elsajátíthatsz.
     {{< youtube "ePMfwHAHXFM" "align-center" >}}
@@ -28,7 +34,7 @@ desc: "Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer,
     </span>
 {{< /section >}}
 
-{{< section color=1 >}}
+{{< section color=0 >}}
     <h1 class="title">A kezdetek...</h1>
     {{< columns vcentered=true >}}
         {{< column size="is-one-quarter" >}}
@@ -40,7 +46,7 @@ Már gyerekkorom óta szenvedélyem az informatika: sose volt kérdés a hivatá
     {{< /columns >}}
 {{< /section >}}
 
-{{< section color=0 >}}
+{{< section color=1 >}}
     <h1 class="title">Mi is a célom?</h1>
     {{< columns vcentered=true >}}
         {{< column >}}
