@@ -1,7 +1,7 @@
 ---
-title: "VESZÉLYBEN VAGY"
+title: "DIGITÁLIS LÁZADÁS"
 date: 2023-03-01T11:06:18+01:00
-desc: "Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer, üzletember, programozó, varázsló, testépítő, rendszergazda..."
+summary: "Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer, üzletember, programozó, varázsló, testépítő, rendszergazda..."
 ---
 {{< section >}}
     {{< index/title "DIGITÁLIS LÁZADÁS" "Mióta az eszemet tudom számítógépekkel foglalkozom." "Tanulj a legjobbaktól." >}}
