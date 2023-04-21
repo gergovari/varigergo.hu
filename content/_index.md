@@ -15,10 +15,12 @@ summary: "Vári Gergő lennék, egy digitális lázadó: informatikus, influensz
     {{< columns vcentered=true >}}
         {{< column >}}
             <h1 class="title">Ki is vagyok?</h1>
-            {{< img name="microphone.png" nolazy=true >}}
+            Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer, üzletember, programozó, varázsló, testépítő, rendszergazda...
         {{< /column >}}
         {{< column >}}
-            Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer, üzletember, programozó, varázsló, testépítő, rendszergazda...
+            <div class="has-text-centered">
+                {{< img name="microphone.png" nolazy=true >}}<br/>
+            </div>
         {{< /column >}}
     {{< /columns >}}
 {{< /section >}}
@@ -27,11 +29,21 @@ summary: "Vári Gergő lennék, egy digitális lázadó: informatikus, influensz
     <h1 class="title">Digitális Lázadás</h1>
     ...avagy az elveim amiket te is elsajátíthatsz.
     {{< youtube "ePMfwHAHXFM" "align-center" >}}
-    <span class="decorate-link has-text-centered">
-        <a href="https://blog.varigergo.hu/posts/digital-rebel">Blog poszt</a><br />
-        <a href="/digitalrebel/manifesto-poster.png">Poszter (8.5 x 11)</a>
-        <a href="/digitalrebel/manifesto-mobile.png">Telefon háttérkép</a>
-    </span>
+        {{< columns class="is-flex-direction-column has-text-centered decorate-link is-full-width" >}}
+            {{< column >}}
+                <a href="https://blog.varigergo.hu/posts/digital-rebel">Blog poszt</a><br />
+            {{< /column >}}
+            {{< column >}}
+                {{< columns >}}
+                    {{< column >}}
+                        <a href="/digitalrebel/manifesto-poster.png">Poszter (8.5 x 11)</a>
+                    {{< /column >}}
+                    {{< column >}}
+                        <a href="/digitalrebel/manifesto-mobile.png">Telefon háttérkép</a>
+                    {{< /column >}}
+                {{< /columns >}}
+            {{< /column >}}
+        {{< /columns >}}
 {{< /section >}}
 
 {{< section color=0 >}}
