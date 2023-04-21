@@ -31,7 +31,7 @@ summary: "Vári Gergő lennék, egy digitális lázadó: informatikus, influensz
     {{< youtube "ePMfwHAHXFM" "align-center" >}}
         {{< columns class="is-flex-direction-column has-text-centered decorate-link is-full-width" >}}
             {{< column >}}
-                <a href="https://blog.varigergo.hu/posts/digital-rebel">Blog poszt</a><br />
+                <a href="https://blog.varigergo.hu/posts/what-digital-rebel">Blog poszt</a><br />
             {{< /column >}}
             {{< column >}}
                 {{< columns >}}
