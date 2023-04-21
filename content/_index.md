@@ -46,7 +46,7 @@ summary: "Vári Gergő lennék, egy digitális lázadó: informatikus, influensz
         {{< /columns >}}
 {{< /section >}}
 
-{{< section color=0 >}}
+{{< section >}}
     <h1 class="title">A kezdetek...</h1>
     {{< columns vcentered=true >}}
         {{< column size="is-one-quarter" >}}
