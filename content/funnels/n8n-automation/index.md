@@ -5,6 +5,7 @@ colorId: 0
 preorder: True
 noNavbar: True
 redirect_up: "/funnels/digital-security-course-oto"
+draft: true
 ---
 # TE is {{< highlight >}}automatizálhatsz{{< /highlight >}}!
 ...anélkül hogy eladnád a lelked a nagy tech cégeknek.

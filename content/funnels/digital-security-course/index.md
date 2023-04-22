@@ -4,6 +4,7 @@ id: "digital-security-course"
 colorId: 0
 preorder: True
 noNavbar: True
+draft: true
 ---
 # Ha szeretnéd megépíteni {{< highlight >}}saját{{< /highlight >}} {{< highlight >}}Digitális Váradat{{< /highlight >}}...
 Tanulj olyantól aki már bejárta az utat.

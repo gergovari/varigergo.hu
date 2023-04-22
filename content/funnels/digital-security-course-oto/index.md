@@ -4,6 +4,7 @@ id: "digital-security-course"
 colorId: 0
 preorder: True
 noNavbar: True
+draft: true
 ---
 # EZ AZ AJÁNLAT {{< highlight >}}CSAK MOST ELÉRHETŐ{{< /highlight >}} NEKED
 ## Ha szeretnéd megépíteni {{< highlight >}}saját{{< /highlight >}} {{< highlight >}}Digitális Váradat{{< /highlight >}}...
