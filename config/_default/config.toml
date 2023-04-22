@@ -6,9 +6,14 @@ title = 'Vári Gergő'
 unsafe = true
 
 [module]
-[[module.imports]]
-path = "github.com/gergovari/vyberpunk"
-theme = "vyberpunk"
+	[[module.imports]]
+	path = "github.com/gergovari/vyberpunk"
+
+	[[module.imports]]
+	path = "github.com/gergovari/varigergo-shared"
+		[[module.imports.mounts]]
+		source = "content/"
+		target = "content"
 
 [params.matomo]
 url = "https://matomo.varigergo.hu"
