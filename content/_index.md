@@ -27,7 +27,7 @@ summary: "I'm Gergő Vári, a digital rebel: tech guy, influencer, business man,
         {{< /column >}}
         {{< column >}}
             <div class="has-text-centered">
-                {{< img name="microphone.png" nolazy=true >}}<br/>
+                {{< img name="microphone.png" class="glitch" nolazy=true >}}<br/>
             </div>
         {{< /column >}}
     {{< /columns >}}
