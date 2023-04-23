@@ -1,10 +1,10 @@
 ---
-title: "DIGITÁLIS LÁZADÁS"
+title: "DIGITAL REBELLION"
 date: 2023-03-01T11:06:18+01:00
-summary: "Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer, üzletember, programozó, varázsló, testépítő, rendszergazda..."
+summary: "I'm Gergő Vári, a digital rebel: tech guy, influencer, business man, hackerman, wizard, bodybuilder, cult leader, ..."
 ---
 {{< section >}}
-    {{< index/title "DIGITÁLIS LÁZADÁS" "Mióta az eszemet tudom számítógépekkel foglalkozom." "Tanulj a legjobbaktól." >}}
+    {{< index/title "DIGITAL REBELLION" "The dystopia is already here." "Make Computing Great Again!" >}}
 {{< /section >}}
 
 {{< section color=1 >}}
@@ -14,8 +14,16 @@ summary: "Vári Gergő lennék, egy digitális lázadó: informatikus, influensz
 {{< section color=0 >}}
     {{< columns vcentered=true >}}
         {{< column >}}
-            <h1 class="title">Ki is vagyok?</h1>
-            Vári Gergő lennék, egy digitális lázadó: informatikus, influenszer, üzletember, programozó, varázsló, testépítő, rendszergazda...
+            
+            <h1 class="title">Who am I?</h1>
+            {{< columns class="is-flex-direction-column">}}
+                {{< column >}}
+                    I'm <b>Gergő Vári</b> (Greg for short), a digital rebel: tech guy, influencer, business man, hackerman, wizard, bodybuilder, cult leader, ...
+                {{< /column >}}
+                {{< column >}}
+                    The last remaining people who know how computing went wrong: and how it'll be fixed in the future.
+                {{< /column >}}
+            {{< /columns >}}
         {{< /column >}}
         {{< column >}}
             <div class="has-text-centered">
@@ -26,20 +34,20 @@ summary: "Vári Gergő lennék, egy digitális lázadó: informatikus, influensz
 {{< /section >}}
 
 {{< section color=1 class="is-flex is-flex-direction-column is-align-items-center" >}}
-    <h1 class="title">Digitális Lázadás</h1>
-    ...avagy az elveim amiket te is elsajátíthatsz.
+    <h1 class="title">Digital Rebellion</h1>
+    ...the movement where we build the future of computing.
     {{< youtube id="ePMfwHAHXFM" class="align-center" >}}
         {{< columns class="is-flex-direction-column has-text-centered decorate-link is-full-width" >}}
             {{< column >}}
-                <a href="https://blog.varigergo.hu/posts/what-digital-rebel">Blog poszt</a><br />
+                <a href="https://blog.varigergo.hu/posts/what-digital-rebel">Blog post</a><br />
             {{< /column >}}
             {{< column >}}
                 {{< columns >}}
                     {{< column >}}
-                        <a href="/digitalrebel/manifesto-poster.png">Poszter (8.5 x 11)</a>
+                        <a href="/digitalrebel/manifesto-poster.png">Poster (8.5 x 11)</a>
                     {{< /column >}}
                     {{< column >}}
-                        <a href="/digitalrebel/manifesto-mobile.png">Telefon háttérkép</a>
+                        <a href="/digitalrebel/manifesto-mobile.png">Mobilephone Wallpaper</a>
                     {{< /column >}}
                 {{< /columns >}}
             {{< /column >}}
@@ -47,25 +55,13 @@ summary: "Vári Gergő lennék, egy digitális lázadó: informatikus, influensz
 {{< /section >}}
 
 {{< section >}}
-    <h1 class="title">A kezdetek...</h1>
+    <h1 class="title">My backstory...</h1>
     {{< columns vcentered=true >}}
         {{< column size="is-one-quarter" >}}
-            {{< img name="kid.png" id=0 alt="Kisgyerekként laptopozom." >}}
+            {{< img name="kid.png" id=0 alt="It started a long time ago..." >}}
         {{< /column >}}
         {{< column >}}
-Már gyerekkorom óta szenvedélyem az informatika: sose volt kérdés a hivatásom. Programozással kezdtem, sokféle feladattal bírkóztam már meg az évek során: saját fórummotorok, telefonos/asztali/webes alkalmazások, beágyazott rendszerek... Sok szervert is állítottam már fel mint magamnak, mint másoknak.
-        {{< /column >}}
-    {{< /columns >}}
-{{< /section >}}
-
-{{< section color=1 >}}
-    <h1 class="title">Mi is a célom?</h1>
-    {{< columns vcentered=true >}}
-        {{< column >}}
-Minél több tudást szerez az ember ezen a téren, rájön mennyivel jobb is lehetne a biztonságunk és mennyire fontos a jogaink megőrzése: saját érdekeink képviselete. Garantálom neked hogy szinte minden okos és elektronikus eszközöd tele van hibákkal amik abból fakadnak hogy túl komplikáltak vagy csak nem foglalkoztak ezzel rendesen."
-        {{< /column >}}
-        {{< column >}}
-A cégek már rájöttek hogy szeretjük az "ingyen" dolgokat. Persze most is fizetsz mindenért: a figyelmeddel és az adataiddal. Célom a digitális túlélés csínját-bínját megtanítani neked, értéket nyújtani és ezzel tőkét szerezni.
+            I was a nerd, geek and generally an outcast in elementary school. Ugly glasses, short hair, a shirt and jeans: <i>basically Harry Potter.</i> I put all my time into studying and getting better grades: so no time for gym, hobbies, social life... I was a loser until I became not efficient, but <b>effective</b>: but people'll try to get in your way...
         {{< /column >}}
     {{< /columns >}}
 {{< /section >}}
