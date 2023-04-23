@@ -1,6 +1,6 @@
 baseURL = 'https://varigergo.hu/'
 languageCode = 'hu-HU'
-title = 'Vári Gergő'
+title = 'Gergő Vári '
 
 [markup.goldmark.renderer]
 unsafe = true 
