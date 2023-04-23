@@ -1,48 +1,48 @@
 [[start]]
-	name = "blogom"
+	name = "my blog"
 	weight = 5
 	url = "https://blog.varigergo.hu"
 
 [[start]]
-	name = "tartalom"
+	name = "content"
 	weight = 10
 [[start]]
 	name = "youtube"
 	url = "https://www.youtube.com/@gergovari"
 	weight = 12
-	parent = "tartalom"
+	parent = "content"
 [[start]]
 	name = "rumble"
 	url = "https://rumble.com/user/gergovari"
 	weight = 14
-	parent = "tartalom"
+	parent = "content"
 [[start]]
 	name = "odysee"
 	url = "https://odysee.com/$/invite/@gergovari:5"
 	weight = 16
-	parent = "tartalom"
+	parent = "content"
 [[start]]
 	name = "tiktok"
 	url = "https://www.tiktok.com/@gergo.vari"
 	weight = 19
-	parent = "tartalom"
+	parent = "content"
 
 [[start]]
-	name = "portfolió"
+	name = "portfolio"
 	weight = 20
 [[start]]
 	name = "github"
 	url = "https://www.github.com/gergovari"
 	weight = 24
-	parent = "portfolió"
+	parent = "portfolio"
 [[start]]
 	name = "linkedin"
 	url = "https://www.linkedin.com/in/varigergo"
 	weight = 26
-	parent = "portfolió"
+	parent = "portfolio"
 
 
 [[end]]
-	name = "írj rám"
+	name = "contact me"
 	url = "https://us11.list-manage.com/contact-form?u=30048b300ffcbfa238b616b35&form_id=316eced16f0e2b0943dd672f188e342a"
 	weight = 1

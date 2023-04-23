@@ -5,7 +5,6 @@ colorId: 0
 preorder: True
 noNavbar: True
 redirect_up: "/funnels/digital-security-course-oto"
-draft: true
 ---
 # TE is {{< highlight >}}automatizálhatsz{{< /highlight >}}!
 ...anélkül hogy eladnád a lelked a nagy tech cégeknek.
@@ -13,7 +12,7 @@ draft: true
 ## {{< highlight >}}Szerezd meg{{< /highlight >}} a szoftvert, felállításának és használatának tudását {{< highlight >}}amivel a következő szintre emelhedet a bizniszed{{< /highlight >}}!
 ## Mindössze CSAK MOST {{< highlight >}}{{< funnels/price >}}{{< /highlight >}}-ért.
 
-{{< youtube "QfjWS5p29EU" "align-center" true >}}
+{{< youtube id="QfjWS5p29EU" class="align-center" nolazy=True >}}
 
 {{< columns vcentered=True >}}
     {{< column >}}
