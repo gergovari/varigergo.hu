@@ -3,7 +3,7 @@ languageCode = 'hu-HU'
 title = 'Vári Gergő'
 
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = true 
 
 [module]
 	[[module.imports]]
