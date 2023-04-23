@@ -1,5 +1,7 @@
 github.com/gergovari/varigergo-shared v0.0.0-20230422092631-9f438224cb6b h1:DZtBJO1aHJRf4C+A6nysgviQUzuWCT0HTvKZFGzSO6s=
 github.com/gergovari/varigergo-shared v0.0.0-20230422092631-9f438224cb6b/go.mod h1:zwYykESSFMZjvTJ9FF6XjWag63Vx1vYUOKYTFuapDq4=
+github.com/gergovari/varigergo-shared v0.0.0-20230423081631-1b327aaae157 h1:9NhgOL4fBACUG/hm3LBoCVwHEFqiaAGcguXo4FHBUwA=
+github.com/gergovari/varigergo-shared v0.0.0-20230423081631-1b327aaae157/go.mod h1:zwYykESSFMZjvTJ9FF6XjWag63Vx1vYUOKYTFuapDq4=
 github.com/gergovari/vyberpunk v0.0.0-20230328165840-1e51e93bf075 h1:Bsb0EOiB+dp6Lm0bySIxAZdVr/IUh9gU84Xd7V5OP/0=
 github.com/gergovari/vyberpunk v0.0.0-20230328165840-1e51e93bf075/go.mod h1:opIEPs1vzAZprFQliEna08OJ0Bf1upEwyt8lruKHd4w=
 github.com/gergovari/vyberpunk v0.0.0-20230330123057-e23be47551e0 h1:cHjsrZ6X6iWu7tVF7QwzBBgON9m/uGyaEC4SMVwEpPY=
@@ -124,3 +126,5 @@ github.com/gergovari/vyberpunk v0.0.0-20230421105854-8afb768b2949 h1:4DusV8IRjOy
 github.com/gergovari/vyberpunk v0.0.0-20230421105854-8afb768b2949/go.mod h1:19EFcXwRJDoGGOx+yDvKkMbbpntpHIZsJUeN2SrNPCQ=
 github.com/gergovari/vyberpunk v0.0.0-20230423043811-299de177de9f h1:s7MrNqPwbAP3sP8ScqLGouH9e2oR9M06GXQuE/3vNBU=
 github.com/gergovari/vyberpunk v0.0.0-20230423043811-299de177de9f/go.mod h1:19EFcXwRJDoGGOx+yDvKkMbbpntpHIZsJUeN2SrNPCQ=
+github.com/gergovari/vyberpunk v0.0.0-20230423081648-41cc7b4e988c h1:ev2KJul7+8hRglziZGvOh6upR3MbRLCsdZNDYnpbmjw=
+github.com/gergovari/vyberpunk v0.0.0-20230423081648-41cc7b4e988c/go.mod h1:19EFcXwRJDoGGOx+yDvKkMbbpntpHIZsJUeN2SrNPCQ=

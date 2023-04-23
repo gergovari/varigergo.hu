@@ -5,6 +5,6 @@ go 1.19
 //replace github.com/gergovari/vyberpunk => ../vyberpunk
 
 require (
-	github.com/gergovari/varigergo-shared v0.0.0-20230422092631-9f438224cb6b // indirect
-	github.com/gergovari/vyberpunk v0.0.0-20230423043811-299de177de9f // indirect
+	github.com/gergovari/varigergo-shared v0.0.0-20230423081631-1b327aaae157 // indirect
+	github.com/gergovari/vyberpunk v0.0.0-20230423081648-41cc7b4e988c // indirect
 )
