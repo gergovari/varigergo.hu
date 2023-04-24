@@ -63,6 +63,7 @@ Szerezd meg a szoftvert, felállításának és használatának tudását amivel
 
 
 
+
 	
 	<picture class="img">
 		
@@ -88,7 +89,7 @@ Szerezd meg a szoftvert, felállításának és használatának tudását amivel
 		
 		<source type="image/jpeg" srcset="/maxresdefault_16658502510994332074.jpg"/>
 			
-				<img width="1280px" height="720px" src="/maxresdefault_16658502510994332074.jpg" alt="" />
+				<img width="1280px" height="720px" src="/maxresdefault_16658502510994332074.jpg" alt=""  class="" />
 			
 	</picture>
 
@@ -202,12 +203,13 @@ Ha nem tetszik a kurzus vagy nem azt kaptad amit vártál, 30 napon belül vissz
         
         
         
+        
         	
         	<picture class="img day30">
         		
         		<source type="image/svg&#43;xml" srcset="/30day.svg"/>
         			
-        				<img width="100%" height="100%" src="/30day.svg" alt="" loading="lazy"/>
+        				<img width="100%" height="100%" src="/30day.svg" alt="" loading="lazy" class="" />
         			
         	</picture>
         
