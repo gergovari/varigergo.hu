@@ -6,5 +6,5 @@ go 1.19
 
 require (
 	github.com/gergovari/varigergo-shared v0.0.0-20230423081631-1b327aaae157 // indirect
-	github.com/gergovari/vyberpunk v0.0.0-20230423081648-41cc7b4e988c // indirect
+	github.com/gergovari/vyberpunk v0.0.0-20230424094354-310124164f98 // indirect
 )
