@@ -66,4 +66,9 @@ summary: "I'm Gergő Vári, a digital rebel: tech guy, influencer, business man,
     {{< /columns >}}
 {{< /section >}}
 
+{{< section color=0 >}}
+    <h1 class="title">My content</h1>
+    <span class="decorate-link"><h1 class="animate-off"><a href="https://blog.varigergo.hu/">See my blog</a></h1></span>
+{{< /section >}}
+
 {{< newsletter-popup >}}
