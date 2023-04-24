@@ -1,14 +1,14 @@
 {
 	"digital-security-course": {
 		"name": "Digitális Kontroll Kurzus",
-		"price": 80000,
-		"discountedPrice": 19997,
+		"price": 499,
+		"discountedPrice": 97,
 		"maxAmount": 1
 	},
 	"n8n-automation": {
 		"name": "Automatizálás Kurzus",
-		"price": 60000,
-		"discountedPrice": 2997,
+		"price": 499,
+		"discountedPrice": 97,
 		"maxAmount": 1,
 		"bumps": [
 			"extra-material-n8n-automation"
@@ -17,11 +17,11 @@
 	"extra-material-n8n-automation": {
 		"name": "Segédanyagok",
 		"description": "Konfigurációs fájlok, plusz cikkek, segédek...",
-		"price": 12997,
+		"price": 37,
 		"maxAmount": 1
 	},
 	"candy": {
 		"name": "Cukorka",
-		"price": 200
+		"price": 1
 	}
 }
