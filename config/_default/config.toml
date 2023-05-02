@@ -7,13 +7,18 @@ unsafe = true
 
 [module]
 	[[module.imports]]
-	path = "github.com/gergovari/vyberpunk"
+		path = "github.com/vyberd/vyberpunk"
+	[[module.imports]]
+		path = "github.com/vyberd/blog"
+	[[module.imports]]
+		path = "github.com/vyberd/funnels"
+	[[module.imports]]
+		path = "github.com/vyberd/checkout"
+	[[module.imports]]
+		path = "github.com/vyberd/questionnaires"
 
 	[[module.imports]]
-	path = "github.com/gergovari/varigergo-shared"
-		[[module.imports.mounts]]
-		source = "content/"
-		target = "content"
+		path = "github.com/gergovari/varigergo-shared"
 
 [params.matomo]
 url = "https://matomo.varigergo.hu"
