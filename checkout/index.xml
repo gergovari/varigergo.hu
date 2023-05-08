@@ -2,7 +2,7 @@
 
 
 
-<script async src="/js/checkout/stripe.min.7ba7d5ccf139bb197d8ee678f60398b517f5d3a41aec09a9fff17a5682b3fdd3738a4791d9bd66214a9dae142dc73d36.js" data-key="pk_live_51MqVpzDJeSyRUjQe1jZ8WNZbhEaLL9QeZeJ4Svfkh7GM6n6va4IVRXLksYKePwL20WN71qwYdJMq85ploaYQAn5t005fDtR25L" data-backend="https://stripe.varigergo.hu" data-done="https://varigergo.hu/checkout-done/stripe" data-color-bg="#0d0d0d" data-color-text="#f2f2f2" data-color-accent="#590202" data-color-placeholder="#f2f2f2" integrity="sha384-e6fVzPE5uxl9juZ49gOYtRf106Qa7Amp//F6VoKz/dNzikeR2b1mIUqdrhQtxz02"></script>
+<script async src="/js/checkout/stripe.min.7ba7d5ccf139bb197d8ee678f60398b517f5d3a41aec09a9fff17a5682b3fdd3738a4791d9bd66214a9dae142dc73d36.js" data-key="pk_live_51MqVpzDJeSyRUjQe1jZ8WNZbhEaLL9QeZeJ4Svfkh7GM6n6va4IVRXLksYKePwL20WN71qwYdJMq85ploaYQAn5t005fDtR25L" data-backend="https://stripe.varigergo.hu" data-done="https://varigergo.hu/checkout-done/stripe" data-color-bg="%!s(<nil>)" data-color-text="%!s(<nil>)" data-color-accent="%!s(<nil>)" data-color-placeholder="%!s(<nil>)" integrity="sha384-e6fVzPE5uxl9juZ49gOYtRf106Qa7Amp//F6VoKz/dNzikeR2b1mIUqdrhQtxz02"></script>
 
 <div class="payment-holder payment-container">
 	<form id="payment-form">
