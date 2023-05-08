@@ -10,8 +10,8 @@
     {{< column >}}
         {{< input/group >}}
             <h2>What's your BIGGEST question around this topic?</h2>
-            {{< questionnaire/textarea id="question" placeholder="Your question..." required=True expand=True >}}
-            {{< questionnaire/text id="email" placeholder="E-mail" required=True >}}
+            {{< input/textarea id="question" placeholder="Your question..." required=True expand=True >}}
+            {{< input/text id="email" placeholder="E-mail" required=True >}}
         {{< /input/group >}}
     {{< /column >}}
 {{< /columns >}}
