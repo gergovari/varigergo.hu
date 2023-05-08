@@ -1,34 +1,20 @@
 baseURL = 'https://varigergo.hu/'
 languageCode = 'en-US'
-title = 'Gergő Vári '
-
-[markup.goldmark.renderer]
-unsafe = true 
+title = 'Gergő Vári'
 
 [module]
 	[[module.imports]]
-		path = "github.com/vyberd/vyberpunk"
-	[[module.imports]]
-		path = "github.com/vyberd/blog"
-	[[module.imports]]
-		path = "github.com/vyberd/funnels"
-	[[module.imports]]
-		path = "github.com/vyberd/checkout"
-	[[module.imports]]
-		path = "github.com/vyberd/questionnaires"
-	[[module.imports]]
-		path = "github.com/vyberd/base"
-	[[module.imports]]
-		path = "github.com/vyberd/gallery"
-	[[module.imports]]
-		path = "github.com/vyberd/navbar"
-	[[module.imports]]
-		path = "github.com/vyberd/animation"
-	[[module.imports]]
-		path = "github.com/vyberd/input"
+	path = "github.com/vyberd/vyberpunk"
 
 	[[module.imports]]
-		path = "github.com/gergovari/varigergo-shared"
+	path = "github.com/vyberd/funnels"
+	[[module.imports]]
+	path = "github.com/vyberd/checkout"
+	[[module.imports]]
+	path = "github.com/vyberd/questionnaires"
+
+	[[module.imports]]
+	path = "github.com/gergovari/varigergo-shared"
 
 [params.matomo]
 url = "https://matomo.varigergo.hu"
@@ -39,10 +25,3 @@ key = "pk_live_51MqVpzDJeSyRUjQe1jZ8WNZbhEaLL9QeZeJ4Svfkh7GM6n6va4IVRXLksYKePwL2
 #key = "pk_test_51MqVpzDJeSyRUjQeXckxIaDFRQEIqsdrwUQkcqMRswoAfDxwfjHKTWXnrHk4faya7Jo1nwvcSDEPi7chIiquEBWs00kB3a8QUQ"
 backendUrl = "https://stripe.varigergo.hu"
 doneUrl = "https://varigergo.hu/checkout-done/stripe"
-
-[params.colors]
-	bg = "#0d0d0d"
-	text = "#f2f2f2"
-	accent = "#590202"
-	accent1 = "#F23D3D"
-	accent2 = "#F20505"
