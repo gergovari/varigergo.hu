@@ -5,7 +5,7 @@ go 1.19
 //replace github.com/gergovari/vyberpunk => ../vyberpunk
 
 require (
-	github.com/gergovari/varigergo-shared v0.0.0-20230429073826-c51348117611 // indirect
+	github.com/gergovari/varigergo-shared v0.0.0-20230508130749-39eab432db48 // indirect
 	github.com/gergovari/vyberpunk v0.0.0-20230426050616-8827d117719a // indirect
 	github.com/vyberd/animation v0.0.0-20230508074719-6039ef50f748 // indirect
 	github.com/vyberd/base v0.0.0-20230508072822-681152e4787f // indirect
@@ -16,5 +16,6 @@ require (
 	github.com/vyberd/input v0.0.0-20230508075532-884ab0fba564 // indirect
 	github.com/vyberd/navbar v0.0.0-20230508074240-fd07f4bc39bb // indirect
 	github.com/vyberd/questionnaires v0.0.0-20230508130101-e47647ae84a8 // indirect
+	github.com/vyberd/stylesheet v0.0.0-20230508130157-e93394cab397 // indirect
 	github.com/vyberd/vyberpunk v0.0.0-20230508072132-fac8ce80e9cc // indirect
 )

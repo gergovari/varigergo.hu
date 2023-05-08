@@ -6,6 +6,8 @@ github.com/gergovari/varigergo-shared v0.0.0-20230428101057-ddfb7dbbd94a h1:85ef
 github.com/gergovari/varigergo-shared v0.0.0-20230428101057-ddfb7dbbd94a/go.mod h1:zwYykESSFMZjvTJ9FF6XjWag63Vx1vYUOKYTFuapDq4=
 github.com/gergovari/varigergo-shared v0.0.0-20230429073826-c51348117611 h1:zlcYy+mvI37G8o3J3TXvJNPhMOXqB6L+KSmw4LFX6A4=
 github.com/gergovari/varigergo-shared v0.0.0-20230429073826-c51348117611/go.mod h1:zwYykESSFMZjvTJ9FF6XjWag63Vx1vYUOKYTFuapDq4=
+github.com/gergovari/varigergo-shared v0.0.0-20230508130749-39eab432db48 h1:P4c8hYjn6kd9kmbwA6LR6nzrEHv18xO2TZNfyNnkqho=
+github.com/gergovari/varigergo-shared v0.0.0-20230508130749-39eab432db48/go.mod h1:zwYykESSFMZjvTJ9FF6XjWag63Vx1vYUOKYTFuapDq4=
 github.com/gergovari/vyberpunk v0.0.0-20230328165840-1e51e93bf075 h1:Bsb0EOiB+dp6Lm0bySIxAZdVr/IUh9gU84Xd7V5OP/0=
 github.com/gergovari/vyberpunk v0.0.0-20230328165840-1e51e93bf075/go.mod h1:opIEPs1vzAZprFQliEna08OJ0Bf1upEwyt8lruKHd4w=
 github.com/gergovari/vyberpunk v0.0.0-20230330123057-e23be47551e0 h1:cHjsrZ6X6iWu7tVF7QwzBBgON9m/uGyaEC4SMVwEpPY=
@@ -166,6 +168,8 @@ github.com/vyberd/questionnaires v0.0.0-20230508075526-0fb58e08b0b9 h1:xQ50n9Kr2
 github.com/vyberd/questionnaires v0.0.0-20230508075526-0fb58e08b0b9/go.mod h1:St0xkyw/Z0tvJDG9X212Lc1RGoG7g2Qf3TOVbKqZ2Lk=
 github.com/vyberd/questionnaires v0.0.0-20230508130101-e47647ae84a8 h1:X0dPq5hEBai9RvoJFAizECRMZelC7ACWH2y3Z6+TqcM=
 github.com/vyberd/questionnaires v0.0.0-20230508130101-e47647ae84a8/go.mod h1:St0xkyw/Z0tvJDG9X212Lc1RGoG7g2Qf3TOVbKqZ2Lk=
+github.com/vyberd/stylesheet v0.0.0-20230508130157-e93394cab397 h1:uUQKe8f5aRRuYMI32jpOvBQ70Dro4mL5mjxN6dNb8Pc=
+github.com/vyberd/stylesheet v0.0.0-20230508130157-e93394cab397/go.mod h1:jrD+CjwvTp7At11ZXIyv0fWTaVy9V/RLLwUui5n0KEI=
 github.com/vyberd/vyberpunk v0.0.0-20230502161039-c0faf93be2a1 h1:/K3PcwhqH0Omd5kA0X9JQl/GjbbrKnTZEmpNECXN7Vk=
 github.com/vyberd/vyberpunk v0.0.0-20230502161039-c0faf93be2a1/go.mod h1:LpwNohclLMT11zkOaEL3liR8eBK8t9ZJJiMHMcSc25I=
 github.com/vyberd/vyberpunk v0.0.0-20230508072132-fac8ce80e9cc h1:bjAVGGAz/v6w2o0lStM2xfFhFd3hoDSW0XttW6iDA48=
