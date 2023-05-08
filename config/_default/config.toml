@@ -1,5 +1,5 @@
 baseURL = 'https://varigergo.hu/'
-languageCode = 'hu-HU'
+languageCode = 'en-US'
 title = 'Gergő Vári '
 
 [markup.goldmark.renderer]
@@ -16,6 +16,16 @@ unsafe = true
 		path = "github.com/vyberd/checkout"
 	[[module.imports]]
 		path = "github.com/vyberd/questionnaires"
+	[[module.imports]]
+		path = "github.com/vyberd/base"
+	[[module.imports]]
+		path = "github.com/vyberd/gallery"
+	[[module.imports]]
+		path = "github.com/vyberd/navbar"
+	[[module.imports]]
+		path = "github.com/vyberd/animation"
+	[[module.imports]]
+		path = "github.com/vyberd/input"
 
 	[[module.imports]]
 		path = "github.com/gergovari/varigergo-shared"

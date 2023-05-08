@@ -8,10 +8,10 @@
 <h2>If I was you I'd already be typing as only {{< highlight >}}100 PEOPLE{{< /highlight >}} can take this offer!</h2>
     {{< /column >}}
     {{< column >}}
-        {{< questionnaire/group >}}
+        {{< input/group >}}
             <h2>What's your BIGGEST question around this topic?</h2>
             {{< questionnaire/textarea id="question" placeholder="Your question..." required=True expand=True >}}
             {{< questionnaire/text id="email" placeholder="E-mail" required=True >}}
-        {{< /questionnaire/group >}}
+        {{< /input/group >}}
     {{< /column >}}
 {{< /columns >}}
