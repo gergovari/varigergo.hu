@@ -19,5 +19,5 @@ require (
 	github.com/vyberd/questionnaires v0.0.0-20230508130101-e47647ae84a8 // indirect
 	github.com/vyberd/stylesheet v0.0.0-20230508130157-e93394cab397 // indirect
 	github.com/vyberd/tracking v0.0.0-20230508130105-ece0113fc868 // indirect
-	github.com/vyberd/vyberpunk v0.0.0-20230508072132-fac8ce80e9cc // indirect
+	github.com/vyberd/vyberpunk v0.0.0-20230508132003-ce377dcb5c42 // indirect
 )
