@@ -162,6 +162,8 @@ github.com/vyberd/input v0.0.0-20230508075532-884ab0fba564 h1:RugBGnYrpR1pytAbOU
 github.com/vyberd/input v0.0.0-20230508075532-884ab0fba564/go.mod h1:8B2c82nA85VVB4hm5t5eSThKVDSnDtMy0fy+fkmdk3M=
 github.com/vyberd/navbar v0.0.0-20230508074240-fd07f4bc39bb h1:e10jVQ0x58eh3hYnDuuwgvlosLAPr+YmzMvciVVoHKw=
 github.com/vyberd/navbar v0.0.0-20230508074240-fd07f4bc39bb/go.mod h1:rkjD79Mr+wjMZQHTAs72w1FjgIcU1Rfw15sL/rB/3ME=
+github.com/vyberd/popup v0.0.0-20230508130058-b7c0b9a45bbe h1:0ZloQSwneUwmCVxLpBstXcxEJLrVo7kPO4Qulu984Ck=
+github.com/vyberd/popup v0.0.0-20230508130058-b7c0b9a45bbe/go.mod h1:6wLIwcxxsrBHIg+VUVR3rE0Z/1LLl7ZTB/rX60GP4R8=
 github.com/vyberd/questionnaires v0.0.0-20230502160430-a71b68588a07 h1:2YhwLG6uHMyT9Cbjckoglzhem7ee+2R/PWgiu1Sp828=
 github.com/vyberd/questionnaires v0.0.0-20230502160430-a71b68588a07/go.mod h1:St0xkyw/Z0tvJDG9X212Lc1RGoG7g2Qf3TOVbKqZ2Lk=
 github.com/vyberd/questionnaires v0.0.0-20230508075526-0fb58e08b0b9 h1:xQ50n9Kr2iKkDiplMBm9pkqFR2VfoiEfA3gb76CKZMA=
@@ -170,6 +172,8 @@ github.com/vyberd/questionnaires v0.0.0-20230508130101-e47647ae84a8 h1:X0dPq5hEB
 github.com/vyberd/questionnaires v0.0.0-20230508130101-e47647ae84a8/go.mod h1:St0xkyw/Z0tvJDG9X212Lc1RGoG7g2Qf3TOVbKqZ2Lk=
 github.com/vyberd/stylesheet v0.0.0-20230508130157-e93394cab397 h1:uUQKe8f5aRRuYMI32jpOvBQ70Dro4mL5mjxN6dNb8Pc=
 github.com/vyberd/stylesheet v0.0.0-20230508130157-e93394cab397/go.mod h1:jrD+CjwvTp7At11ZXIyv0fWTaVy9V/RLLwUui5n0KEI=
+github.com/vyberd/tracking v0.0.0-20230508130105-ece0113fc868 h1:9AEnxWd4hXsDVw/G+FqzrgIzSvQBWbEY4kLNn4QUgtQ=
+github.com/vyberd/tracking v0.0.0-20230508130105-ece0113fc868/go.mod h1:V30JnK2k7PC95BK7Fw69LmSUPCnAqbpGkAfv8ajG6as=
 github.com/vyberd/vyberpunk v0.0.0-20230502161039-c0faf93be2a1 h1:/K3PcwhqH0Omd5kA0X9JQl/GjbbrKnTZEmpNECXN7Vk=
 github.com/vyberd/vyberpunk v0.0.0-20230502161039-c0faf93be2a1/go.mod h1:LpwNohclLMT11zkOaEL3liR8eBK8t9ZJJiMHMcSc25I=
 github.com/vyberd/vyberpunk v0.0.0-20230508072132-fac8ce80e9cc h1:bjAVGGAz/v6w2o0lStM2xfFhFd3hoDSW0XttW6iDA48=
