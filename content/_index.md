@@ -7,11 +7,11 @@ summary: "I'm Gergő Vári, a digital rebel: tech guy, influencer, business man,
     {{< index/title "DIGITAL REBELLION" "The dystopia is already here." "Make Computing Great Again!" >}}
 {{< /section >}}
 
-{{< section color=1 >}}
+{{< section color=0 >}}
     {{< signup "newsletter" >}}
 {{< /section >}}
 
-{{< section color=0 >}}
+{{< section color=1 >}}
     {{< columns vcentered=true >}}
         {{< column >}}
             
@@ -25,15 +25,15 @@ summary: "I'm Gergő Vári, a digital rebel: tech guy, influencer, business man,
                 {{< /column >}}
             {{< /columns >}}
         {{< /column >}}
-        {{< column >}}
+        {{< column size="is-two-fifths" >}}
             <div class="has-text-centered">
-                {{< img name="microphone.png" class="glitch" nolazy=true >}}<br/>
+                {{< img name="suit.png" class="glitch" nolazy=true width="500rem" >}}<br/>
             </div>
         {{< /column >}}
     {{< /columns >}}
 {{< /section >}}
 
-{{< section color=1 class="is-flex is-flex-direction-column is-align-items-center" >}}
+{{< section color=0 class="is-flex is-flex-direction-column is-align-items-center" >}}
     <h1 class="title">Digital Rebellion</h1>
     ...the movement where we build the future of computing.
     {{< youtube id="ePMfwHAHXFM" class="align-center" >}}
@@ -67,8 +67,17 @@ summary: "I'm Gergő Vári, a digital rebel: tech guy, influencer, business man,
 {{< /section >}}
 
 {{< section color=0 >}}
-    <h1 class="title">My content</h1>
-    <span class="decorate-link"><h1 class="animate-off"><a href="https://blog.varigergo.hu/">See my blog</a></h1></span>
+    {{< columns vcentered=True >}}
+        {{< column >}}
+            <h1 class="title">My content</h1>
+            <span class="decorate-link"><h1 class="animate-off"><a href="https://blog.varigergo.hu/">See my blog</a></h1></span>
+        {{< /column >}}
+        {{< column >}}
+            <div class="has-text-centered">
+                {{< img name="microphone.png" class="glitch" nolazy=true width="500rem" >}}<br/>
+            </div>
+        {{< /column >}}
+    {{< columns >}}
 {{< /section >}}
 
 {{< newsletter-popup >}}
