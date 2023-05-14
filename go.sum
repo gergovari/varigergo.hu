@@ -16,6 +16,7 @@ github.com/vyberd/base v0.0.0-20230513053638-de7cd17be5ee h1:3N07FF0sJFw9/d6G7k+
 github.com/vyberd/base v0.0.0-20230513053638-de7cd17be5ee/go.mod h1:EWVMrnECY+QBI2Dlrz/0OVxNKg+xyhp5LYy3l8CZcbo=
 github.com/vyberd/base v0.0.0-20230513063954-bca7e1f14057 h1:pVDx4g5f+t96FVNThRjyMAM13PdHpIZTrjdaBgsd/kY=
 github.com/vyberd/base v0.0.0-20230513063954-bca7e1f14057/go.mod h1:DyNI4BUbR9D4fwiLtlWVzRCyzRboABZ0uNYcfh0RLrc=
+github.com/vyberd/base v0.0.0-20230514053632-6a9321bf7545/go.mod h1:DyNI4BUbR9D4fwiLtlWVzRCyzRboABZ0uNYcfh0RLrc=
 github.com/vyberd/checkout v0.0.0-20230508130039-b4ebabb00dbb h1:Pm3I6lBtZV6CjudmQ9WkgPFQTYJy3veVklxKXJ6mbWg=
 github.com/vyberd/checkout v0.0.0-20230508130039-b4ebabb00dbb/go.mod h1:ypR4JwLdHVxtDwKp43df1ciVim/lNaJFb+lbuSiUprU=
 github.com/vyberd/checkout v0.0.0-20230508132916-6da89e795ef4 h1:XWnuFO6b31hZJ8vJ89dZakHf4CoQEGqHOrXJMKoHnkY=
@@ -88,3 +89,5 @@ github.com/vyberd/vyberpunk v0.0.0-20230513064243-656e9a886225 h1:jSsEAWXFPjfE6D
 github.com/vyberd/vyberpunk v0.0.0-20230513064243-656e9a886225/go.mod h1:pPwhGjBL41zvjIO+anwr+uAoQe8+tJ7oNenEJwrPtLs=
 github.com/vyberd/vyberpunk v0.0.0-20230513064913-ea639f531c55 h1:dpLaHyoCPipN0q0i/5ktOeFvUZX4bHseGhiG1f7OLyY=
 github.com/vyberd/vyberpunk v0.0.0-20230513064913-ea639f531c55/go.mod h1:cmFOR7QH6ijbCsST/I51zjOVbc+RYnEAtr7Xv1tqS9M=
+github.com/vyberd/vyberpunk v0.0.0-20230514053717-7f86041747b6 h1:EDBNabhpn70BQt+W+6VXpujA9+HFZABMHa1gfKJoKxE=
+github.com/vyberd/vyberpunk v0.0.0-20230514053717-7f86041747b6/go.mod h1:cpWwmZZ5Kc79INhZlpozh10C9Mc15kRI3M6FK6jfl4M=
