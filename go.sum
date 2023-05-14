@@ -40,6 +40,7 @@ github.com/vyberd/input v0.0.0-20230513051610-1ad0a1ebb294 h1:4UTrYMIbq/2u6z15Gi
 github.com/vyberd/input v0.0.0-20230513051610-1ad0a1ebb294/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
 github.com/vyberd/input v0.0.0-20230513063913-fda580e86be9 h1:714MVF2yubKBLsqQOCHxfklFQ8R2kOijd/UoDhOjjeg=
 github.com/vyberd/input v0.0.0-20230513063913-fda580e86be9/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
+github.com/vyberd/input v0.0.0-20230513064707-7de2959a1117 h1:Hn6INhog/z+1c1Lk/oT+LXv+R9cO51VEVX64EYWxLgE=
 github.com/vyberd/input v0.0.0-20230513064707-7de2959a1117/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
 github.com/vyberd/navbar v0.0.0-20230508074240-fd07f4bc39bb h1:e10jVQ0x58eh3hYnDuuwgvlosLAPr+YmzMvciVVoHKw=
 github.com/vyberd/navbar v0.0.0-20230508074240-fd07f4bc39bb/go.mod h1:rkjD79Mr+wjMZQHTAs72w1FjgIcU1Rfw15sL/rB/3ME=
