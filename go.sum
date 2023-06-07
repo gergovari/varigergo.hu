@@ -1,5 +1,7 @@
 github.com/gergovari/varigergo-shared v0.0.0-20230508130749-39eab432db48 h1:P4c8hYjn6kd9kmbwA6LR6nzrEHv18xO2TZNfyNnkqho=
 github.com/gergovari/varigergo-shared v0.0.0-20230508130749-39eab432db48/go.mod h1:zwYykESSFMZjvTJ9FF6XjWag63Vx1vYUOKYTFuapDq4=
+github.com/gergovari/varigergo-shared v0.0.0-20230607093537-8dbed693f657 h1:EgBZaVwA4C+lgVxUJZ6txNmQYCa0qsQFWXCVPdfZ6cE=
+github.com/gergovari/varigergo-shared v0.0.0-20230607093537-8dbed693f657/go.mod h1:QbJp6KDTRQFbgC/YIKEXYEhdvBec2wfU+cclaMqV5Ig=
 github.com/vyberd/animation v0.0.0-20230508074719-6039ef50f748 h1:BbmC+Gtvkdf48HPmLfZwYOUTylpxwq9sQAvZ3LhEEPo=
 github.com/vyberd/animation v0.0.0-20230508074719-6039ef50f748/go.mod h1:qAS+FerjvdbAVYxJf3ABbBdX5jjnILVclfBwxJC4UmA=
 github.com/vyberd/animation v0.0.0-20230508132901-479aeb059716 h1:FJp0ahY9tDvRFzbfJVpzc582T1AqWvSSHI1WPsXMiuM=
@@ -20,6 +22,7 @@ github.com/vyberd/base v0.0.0-20230514053632-6a9321bf7545 h1:km/zqoIpb14BSKTij5/
 github.com/vyberd/base v0.0.0-20230514053632-6a9321bf7545/go.mod h1:DyNI4BUbR9D4fwiLtlWVzRCyzRboABZ0uNYcfh0RLrc=
 github.com/vyberd/base v0.0.0-20230516082231-3f1c5f6e9895 h1:0wS3e5px6MAcY3m2xzAjLWinR0iNZBCRomEXKgetFX0=
 github.com/vyberd/base v0.0.0-20230516082231-3f1c5f6e9895/go.mod h1:ga2XN2Jp3gTNI7qHBXeJE/OID5EdUjjlykbwtV/9RgY=
+github.com/vyberd/base v0.0.0-20230607073226-8cfee778e69e h1:8NjasJ3xy7D2m+du/npH91NqUwYK8zYAaG3W/JK+a0g=
 github.com/vyberd/base v0.0.0-20230607073226-8cfee778e69e/go.mod h1:ga2XN2Jp3gTNI7qHBXeJE/OID5EdUjjlykbwtV/9RgY=
 github.com/vyberd/checkout v0.0.0-20230508130039-b4ebabb00dbb h1:Pm3I6lBtZV6CjudmQ9WkgPFQTYJy3veVklxKXJ6mbWg=
 github.com/vyberd/checkout v0.0.0-20230508130039-b4ebabb00dbb/go.mod h1:ypR4JwLdHVxtDwKp43df1ciVim/lNaJFb+lbuSiUprU=
@@ -39,6 +42,7 @@ github.com/vyberd/funnels v0.0.0-20230521174900-c0e2a93e84ba h1:FMem4qqZw/j8QrVx
 github.com/vyberd/funnels v0.0.0-20230521174900-c0e2a93e84ba/go.mod h1:dOnZL7U3aR5mJP6QV9Txmes/fSAkn5axnXv5qd6b5JM=
 github.com/vyberd/gallery v0.0.0-20230508073036-2a1d170d19f1 h1:8zx3jyY5tQGahX5VwnXPERLG0UhlpofRfSwt67qNmPU=
 github.com/vyberd/gallery v0.0.0-20230508073036-2a1d170d19f1/go.mod h1:U+J4argr9mKrKPlIf/tRxTkJnduugLCX2ba/bpH4xXg=
+github.com/vyberd/gallery v0.0.0-20230512111403-a99b40b757e5/go.mod h1:98w/tuJvgS1YKmf3Dcy9EGp3uSr7QLjpeWh+vMF94aA=
 github.com/vyberd/input v0.0.0-20230508075532-884ab0fba564 h1:RugBGnYrpR1pytAbOUZ1wCy9IZNUnpt3r3ZHQ5DkSzU=
 github.com/vyberd/input v0.0.0-20230508075532-884ab0fba564/go.mod h1:8B2c82nA85VVB4hm5t5eSThKVDSnDtMy0fy+fkmdk3M=
 github.com/vyberd/input v0.0.0-20230508133017-87685c9124ad h1:MViWjWzCjSMSunCpqSgcqJC9E2PaswZpwOYdWiAiSKg=
@@ -49,6 +53,7 @@ github.com/vyberd/input v0.0.0-20230513063913-fda580e86be9 h1:714MVF2yubKBLsqQOC
 github.com/vyberd/input v0.0.0-20230513063913-fda580e86be9/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
 github.com/vyberd/input v0.0.0-20230513064707-7de2959a1117 h1:Hn6INhog/z+1c1Lk/oT+LXv+R9cO51VEVX64EYWxLgE=
 github.com/vyberd/input v0.0.0-20230513064707-7de2959a1117/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
+github.com/vyberd/input v0.0.0-20230521095803-e7f93492ad62 h1:pwk0K4ig5av3veIDJ2ntUNSxDzefq1Pao7fVo+AacbQ=
 github.com/vyberd/input v0.0.0-20230521095803-e7f93492ad62/go.mod h1:W5XuaQoudaMhezkfHsaNdzGKkxrpw7SsOJvQYUTW7DU=
 github.com/vyberd/navbar v0.0.0-20230508074240-fd07f4bc39bb h1:e10jVQ0x58eh3hYnDuuwgvlosLAPr+YmzMvciVVoHKw=
 github.com/vyberd/navbar v0.0.0-20230508074240-fd07f4bc39bb/go.mod h1:rkjD79Mr+wjMZQHTAs72w1FjgIcU1Rfw15sL/rB/3ME=
