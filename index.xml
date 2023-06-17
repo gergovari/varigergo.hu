@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>IF YOU'RE TIRED OF YOUR BUSINESS NOT GROWING... on Gergő Vári</title><link>https://varigergo.hu/</link><description>Recent content in IF YOU'RE TIRED OF YOUR BUSINESS NOT GROWING... on Gergő Vári</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 01 Mar 2023 11:06:18 +0100</lastBuildDate><atom:link href="https://varigergo.hu/index.xml" rel="self" type="application/rss+xml"/><item><title>Stripe</title><link>https://varigergo.hu/checkout/stripe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/checkout/stripe/</guid><description> Pay</description><content:encoded><![CDATA[<script src="https://js.stripe.com/v3/"></script>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>HA ELEGED VAN ABBÓL HOGY STAGNÁL A VÁLLALKOZÁSOD... on Gergő Vári</title><link>https://varigergo.hu/</link><description>Recent content in HA ELEGED VAN ABBÓL HOGY STAGNÁL A VÁLLALKOZÁSOD... on Gergő Vári</description><generator>Hugo -- gohugo.io</generator><language>hu</language><lastBuildDate>Wed, 01 Mar 2023 11:06:18 +0100</lastBuildDate><atom:link href="https://varigergo.hu/index.xml" rel="self" type="application/rss+xml"/><item><title>Stripe</title><link>https://varigergo.hu/checkout/stripe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/checkout/stripe/</guid><description/><content:encoded><![CDATA[<script src="https://js.stripe.com/v3/"></script>
 
 
 
@@ -10,7 +10,7 @@
 		<div id="payment-element"></div>
 		<button id="submit" class="button">
 			<div class="spinner hidden" id="spinner"></div>
-			<span id="button-text">Pay</span>
+			<span id="button-text"></span>
 		</button>
 		<div id="payment-message" class="hidden"></div>
 	</form>
