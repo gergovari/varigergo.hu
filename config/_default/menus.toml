@@ -1,33 +1,38 @@
 [[start]]
-	name = "my blog"
+	name = "blog"
 	weight = 5
 	url = "https://blog.varigergo.hu"
 
 [[start]]
-	name = "social media"
+	name = "közösségi média"
 	weight = 10
+[[start]]
+	name = "twitter"
+	url = "https://instagram.com/gergo_vari"
+	weight = 19
+	parent = "közösségi média"
 [[start]]
 	name = "instagram"
 	url = "https://instagram.com/gergo_vari"
 	weight = 19
-	parent = "social media"
+	parent = "közösségi média"
 
 [[start]]
-	name = "portfolio"
+	name = "portfolió"
 	weight = 20
 [[start]]
 	name = "github"
 	url = "https://www.github.com/gergovari"
 	weight = 24
-	parent = "portfolio"
+	parent = "portfolió"
 [[start]]
 	name = "linkedin"
 	url = "https://www.linkedin.com/in/varigergo"
 	weight = 26
-	parent = "portfolio"
+	parent = "portfolió"
 
 
 [[end]]
-	name = "book a call"
+	name = "foglalj egy hívást"
 	url = "https://calendly.com/gergovari/growth-consultation"
 	weight = 1

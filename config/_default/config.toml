@@ -1,6 +1,7 @@
 baseURL = 'https://varigergo.hu/'
-languageCode = 'en-US'
 title = 'Gergő Vári'
+
+defaultContentLanguage = "hu"
 
 [module]
 	[[module.imports]]
