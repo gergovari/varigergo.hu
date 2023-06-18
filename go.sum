@@ -66,6 +66,7 @@ github.com/vyberd/navbar v0.0.0-20230617155318-eefba23a7e71 h1:TbDFxyc6jgFvJrZNS
 github.com/vyberd/navbar v0.0.0-20230617155318-eefba23a7e71/go.mod h1:775W0Vi6zPXBp60LULlYMbdijvhr1GsUJRnHNYsML9c=
 github.com/vyberd/navbar v0.0.0-20230618050854-30fd4288bb05 h1:Mq1XS1dlF8JBI59OszhrPbQZojpcZrNGSpKRlQ8XzY0=
 github.com/vyberd/navbar v0.0.0-20230618050854-30fd4288bb05/go.mod h1:775W0Vi6zPXBp60LULlYMbdijvhr1GsUJRnHNYsML9c=
+github.com/vyberd/navbar v0.0.0-20230618072321-9fafc8feef46/go.mod h1:775W0Vi6zPXBp60LULlYMbdijvhr1GsUJRnHNYsML9c=
 github.com/vyberd/popup v0.0.0-20230508130058-b7c0b9a45bbe h1:0ZloQSwneUwmCVxLpBstXcxEJLrVo7kPO4Qulu984Ck=
 github.com/vyberd/popup v0.0.0-20230508130058-b7c0b9a45bbe/go.mod h1:6wLIwcxxsrBHIg+VUVR3rE0Z/1LLl7ZTB/rX60GP4R8=
 github.com/vyberd/popup v0.0.0-20230513063917-d989287df810 h1:jA6Yg+RX5JiopBz7/DmErobwvmG5/NMaE5uEsaD3JMI=
@@ -122,3 +123,5 @@ github.com/vyberd/vyberpunk v0.0.0-20230617155428-ee14bed0688d h1:hhTt9HBquSIVv4
 github.com/vyberd/vyberpunk v0.0.0-20230617155428-ee14bed0688d/go.mod h1:yAOvI1LwXFUJf/62sN7vonHcyKQoUmUucuEwy8ZIhiQ=
 github.com/vyberd/vyberpunk v0.0.0-20230618050946-0a89c26bd6d1 h1:JpzImj9+APoBSdyPfAxubXuEp/usDJMYCvOtKcqdQHg=
 github.com/vyberd/vyberpunk v0.0.0-20230618050946-0a89c26bd6d1/go.mod h1:ueqaN9344pJx/iwg8Jxt9QOzCCcDuPr7BbOzHcmSVNE=
+github.com/vyberd/vyberpunk v0.0.0-20230618072441-9f8eff239756 h1:0V4kM5dPjlS48+LbtTJZsGtDHG/0PlcBzPmItgiIj1w=
+github.com/vyberd/vyberpunk v0.0.0-20230618072441-9f8eff239756/go.mod h1:MOpBPPdGWSpezXNwXAtgA+2LqVOMxfZyGwgMwyqdrmg=
