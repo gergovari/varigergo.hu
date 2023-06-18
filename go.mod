@@ -12,10 +12,10 @@ require (
 	github.com/vyberd/funnels v0.0.0-20230521174900-c0e2a93e84ba // indirect
 	github.com/vyberd/gallery v0.0.0-20230512111403-a99b40b757e5 // indirect
 	github.com/vyberd/input v0.0.0-20230521095803-e7f93492ad62 // indirect
-	github.com/vyberd/navbar v0.0.0-20230617155318-eefba23a7e71 // indirect
+	github.com/vyberd/navbar v0.0.0-20230618050854-30fd4288bb05 // indirect
 	github.com/vyberd/popup v0.0.0-20230516082211-a0f3df56cda0 // indirect
 	github.com/vyberd/questionnaires v0.0.0-20230521095811-36b25d3e94ae // indirect
 	github.com/vyberd/stylesheet v0.0.0-20230508132951-d62b845355ed // indirect
 	github.com/vyberd/tracking v0.0.0-20230516082221-f06cea848f6f // indirect
-	github.com/vyberd/vyberpunk v0.0.0-20230617155428-ee14bed0688d // indirect
+	github.com/vyberd/vyberpunk v0.0.0-20230618050946-0a89c26bd6d1 // indirect
 )
