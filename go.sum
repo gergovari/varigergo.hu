@@ -6,6 +6,7 @@ github.com/vyberd/animation v0.0.0-20230508074719-6039ef50f748 h1:BbmC+Gtvkdf48H
 github.com/vyberd/animation v0.0.0-20230508074719-6039ef50f748/go.mod h1:qAS+FerjvdbAVYxJf3ABbBdX5jjnILVclfBwxJC4UmA=
 github.com/vyberd/animation v0.0.0-20230508132901-479aeb059716 h1:FJp0ahY9tDvRFzbfJVpzc582T1AqWvSSHI1WPsXMiuM=
 github.com/vyberd/animation v0.0.0-20230508132901-479aeb059716/go.mod h1:zbuZg2ua2PMmbn9YOzCpbAlVwIGk1Ru+v9DteRMgUuk=
+github.com/vyberd/animation v0.0.0-20230618072610-922147f4a4ad/go.mod h1:zbuZg2ua2PMmbn9YOzCpbAlVwIGk1Ru+v9DteRMgUuk=
 github.com/vyberd/base v0.0.0-20230508072822-681152e4787f h1:UE7Cty4vEVlU9wJj1mW8RYX7k7UA8RT/8AzDkEwaGkM=
 github.com/vyberd/base v0.0.0-20230508072822-681152e4787f/go.mod h1:K3PO96Ici2uAPuB2T2LNYWTJ9PGt3YAWC+tm7RppKTI=
 github.com/vyberd/base v0.0.0-20230508133003-1ce6df12ab1d h1:3S6zsXMmk+3rpwq3YwKSMTQXZHhk5fyEDddGdaBXf08=
@@ -66,6 +67,7 @@ github.com/vyberd/navbar v0.0.0-20230617155318-eefba23a7e71 h1:TbDFxyc6jgFvJrZNS
 github.com/vyberd/navbar v0.0.0-20230617155318-eefba23a7e71/go.mod h1:775W0Vi6zPXBp60LULlYMbdijvhr1GsUJRnHNYsML9c=
 github.com/vyberd/navbar v0.0.0-20230618050854-30fd4288bb05 h1:Mq1XS1dlF8JBI59OszhrPbQZojpcZrNGSpKRlQ8XzY0=
 github.com/vyberd/navbar v0.0.0-20230618050854-30fd4288bb05/go.mod h1:775W0Vi6zPXBp60LULlYMbdijvhr1GsUJRnHNYsML9c=
+github.com/vyberd/navbar v0.0.0-20230618072321-9fafc8feef46 h1:pwbdsguXzClYQNadfvQOI4UwKUcrSI3scK0TNzx0rdk=
 github.com/vyberd/navbar v0.0.0-20230618072321-9fafc8feef46/go.mod h1:775W0Vi6zPXBp60LULlYMbdijvhr1GsUJRnHNYsML9c=
 github.com/vyberd/popup v0.0.0-20230508130058-b7c0b9a45bbe h1:0ZloQSwneUwmCVxLpBstXcxEJLrVo7kPO4Qulu984Ck=
 github.com/vyberd/popup v0.0.0-20230508130058-b7c0b9a45bbe/go.mod h1:6wLIwcxxsrBHIg+VUVR3rE0Z/1LLl7ZTB/rX60GP4R8=
@@ -125,3 +127,5 @@ github.com/vyberd/vyberpunk v0.0.0-20230618050946-0a89c26bd6d1 h1:JpzImj9+APoBSd
 github.com/vyberd/vyberpunk v0.0.0-20230618050946-0a89c26bd6d1/go.mod h1:ueqaN9344pJx/iwg8Jxt9QOzCCcDuPr7BbOzHcmSVNE=
 github.com/vyberd/vyberpunk v0.0.0-20230618072441-9f8eff239756 h1:0V4kM5dPjlS48+LbtTJZsGtDHG/0PlcBzPmItgiIj1w=
 github.com/vyberd/vyberpunk v0.0.0-20230618072441-9f8eff239756/go.mod h1:MOpBPPdGWSpezXNwXAtgA+2LqVOMxfZyGwgMwyqdrmg=
+github.com/vyberd/vyberpunk v0.0.0-20230618072730-2089b9fd89cd h1:WJ2+xTD1r97agfjJajabrd48PpBuZbHTTDDo1eznzh4=
+github.com/vyberd/vyberpunk v0.0.0-20230618072730-2089b9fd89cd/go.mod h1:TQ1Sj9xNvW0ul3nIrEYrts/5XSrFOFbO0vnk/gAjofc=
