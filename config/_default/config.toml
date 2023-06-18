@@ -2,6 +2,7 @@ baseURL = 'https://varigergo.hu/'
 title = 'Gergő Vári'
 
 defaultContentLanguage = "hu"
+defaultContentLanguageInSubdir = true
 
 [module]
 	[[module.imports]]
