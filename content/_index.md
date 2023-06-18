@@ -1,28 +1,28 @@
 ---
-title: "HA ELEGED VAN ABBÓL HOGY STAGNÁL A VÁLLALKOZÁSOD..."
+title: "IF YOU HAD ENOUGH OF YOUR BUSINESS NOT GROWING..."
 date: 2023-03-01T11:06:18+01:00
-summary: "Vári Gergő vagyok: digitális marketing szakértő, növekedési konzultáns és egy lázadó."
+summary: "I'm Gergő Vári (Greg for short): digital marketing expert, growth consultant, and rebel."
 ---
 {{< section >}}
-	{{< index/title "HA ELEGED VAN ABBÓL HOGY STAGNÁL A VÁLLALKOZÁSOD..." "...akkor beszélnünk kell." "Ha nem növekedsz, akkor a csőd felé mész." >}}
+	{{< index/title "IF YOU HAD ENOUGH OF YOUR BUSINESS NOT GROWING..." "...then we need to talk." "If you're not growing, you're failing." >}}
 {{< /section >}}
 
 {{< section color=0 >}}
-	<h1 class="title">A konkurencia nem fog rád várni.</h1>
-	<p>Naponta veszted el a potenciális vásárlóidat mert <b>EGY</b> kulcsfontosságú lépést kihagysz.</p>
-	<p>Szájról-szájra nem lehet a végtelenségig növekedni.</p>
-	<p>Elvárnád hogy minden kliensed ismerősének szüksége legyen rád?</p>
-	<p>A marketing kampányaid nem hozzák a várt eredményeket.</p>
-	<p>Mivel nem tudod a <b>TITKOS</b> receptet a meggyőző reklámszövegekhez.</p>
-	<p>Az emberek mozgatása a mesterségem, tudok Neked segíteni.</p>
+	<h1 class="title">Your competition will not wait for you.</h1>
+	<p>You're losing potential clients on a daily basis as you're missing a <b>SINGULAR</b> step to success.</p>
+	<p>You can't grow infinitely by word-of-mouth.</p>
+	<p>Do you really think all of your customers' friends need you?</p>
+	<p>Your marketing campaigns don't live up to the expectations.</p>
+	<p>It's because you don't know the <b>SECRET</b> to copywriting.</p>
+	<p>I've mastered how people can be influenced.</p>
 {{< /section >}}
 
 {{< section color=1 >}}
 	{{< columns vcentered=True >}}
 		{{< column >}}
-			<h1 class="title">{{< highlight >}}Foglalj le velem egy hívást{{< /highlight >}} hogy megbeszéljük az új terved.</h1>
-			<p>15 perc alatt elmondom hogyan tudsz eddigi vásárlóidból jobban <b>profitálni</b> és újakat bevonzani.</p>
-			<p>Nem várnék sokat a döntéssel, hiszen a vállalkozásod már elindult <b>lefelé a lejtőn...</b></p>
+			<h1 class="title">Let's {{< highlight >}}book a call{{< /highlight >}} so we can create your new plan.</h1>
+			<p>In 15 minutes we'll figure out how to monetize your existing customers and bring in new ones.</p>
+			<p>As I want to help you all of you to the best of my abilities, make sure to schedule with me as soon as possible: <b>I can close this opportunity at any moment.</b></p>
 		{{< /column >}}
 		{{< column >}}
 	<div class="calendly-inline-widget" data-url="https://calendly.com/gergovari/growth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&background_color=000&text_color=f2f2f2&primary_color=f2f2f2"></div>
@@ -35,13 +35,13 @@ summary: "Vári Gergő vagyok: digitális marketing szakértő, növekedési kon
 	{{< columns vcentered=true >}}
 		{{< column >}}
 			{{< section >}}
-				<h1 class="title">Ki lennék?</h1>
+				<h1 class="title">Who am I?</h1>
 				{{< columns class="is-flex-direction-column">}}
 					{{< column >}}
-						Vári Gergő vagyok: digitális marketing szakértő, növekedési konzultáns és egy lázadó.
+						I'm Gergő Vári (Greg for short): digital marketing expert, growth consultant, and rebel.
 					{{< /column >}}
 					{{< column >}}
-						A kardom a szavak, és megfigyelőképességemmel élezem.
+						I wield words as a sword and I sharpen it with perspicacity.
 					{{< /column >}}
 				{{< /columns >}}
 			{{< /section >}}
@@ -55,67 +55,69 @@ summary: "Vári Gergő vagyok: digitális marketing szakértő, növekedési kon
 {{< /section >}}
 
 {{< section color=1 >}}
-<h1 class="title">Eddigi munkáim.</h1>
-<p>"...nem az számít mekkorát ütsz, hanem hogy mennyi csapást állsz ki mikor talpon kell maradni..."</p>
-<p> - Rocky Balboa</p>
-<br />
-<div class="color0 decorate-link">
-	{{< columns vcentered=True color=1 class="little-padding" >}}
-		{{< column size="is-one-fifth" >}}
-			<div class="has-text-centered">
-				{{< img name="selfimprovhu.gif" class="glitch" nolazy=true width="500rem" svg=True >}}<br/>
-			</div>
-		{{< /column >}}
-		{{< column >}}
-			<h1 class="animate-off"><a href="https://iskolahack.hu">Magyar Self-Improvement</a></h1>
-			<p>Ez a Discord szerver {{< highlight >}}300+ emberrel{{< /highlight >}} azért lett kiépítve hogy a magyar önfejlesztés közössége egy helyen tudjon nőni.</p>
-			<p>Azt kérdezed hogyan tudtam a szervert felnöveszteni ekkora nagyságra pár hónap alatt?</p>
-			<p>Elkaptam a megfelelő hullámot, hiszen egy külföldi szerver szeretett volna helyi részlegeket is.</p>
-			<p>Felkészült lettem volna?</p> 
-			<p>Előre megkaptam az információt hogy lesz ilyen ugye?</p> 
-			<p>A fenéket...</p>
-			<p>Ez volt a legelső szerverem.</p>
-			<p>A mai napig fenntartják nagyon értékes tagjaink a kommunikációt, és megyünk együtt előre...</p>
-		{{< /column >}}
-	{{< /columns >}}
-</div>
-<br />
-<div class="color0 decorate-link">
-	{{< columns vcentered=True color=1 class="little-padding" >}}
-		{{< column size="is-one-fifth" >}}
-<div class="has-text-centered">
-	{{< img name="iskolahack.png" class="glitch" nolazy=true width="500rem" >}}<br/>
-</div>
-		{{< /column >}}
-		{{< column >}}
-<h1 class="animate-off"><a href="https://iskolahack.hu">IskolaHACK</a></h1>
-<p>Egy közösség aminek az a célja hogy segítse tagjait minél gyorsabban túljuttatni a magyar oktatási rendszeren.</p>
-<p>Nekem mindig is elvárás volt a tökéletes iskolai teljesítmény.</p>
-<p>Szüleim abban a hitben fognak maradni hogy a diploma az élet célja.</p>
-<p>Arra talán jó hogy bemutatja 4 évig bejártam valahova mindennap.</p>
-<p>Förtelmesnek tartom hogy egy intézménynek van joga elvenni tőled 20+ évet hogy, "általános műveltséget" verjenek beléd.</p>
-<p>Megszabadulni nem fogunk ettől, szóval akkor a másik opció hogy minél hatásosabban végigmegyünk rajta.</p>
-<p>...pont jókor jöttek a mesterséges intelligenciák...</p>
-		{{< /column >}}
-	{{< /columns >}}
-</div>
+	<h1 class="title">My past work.</h1>
+	<p>"...it's not about how hard you hit, it's about how hard you can get hit and keep moving forward..."</p>
+	<p>- Rocky Balboa</p>
+	<br />
+	<div class="color0 decorate-link">
+		{{< columns vcentered=True color=1 class="little-padding" >}}
+			{{< column size="is-one-fifth" >}}
+				<div class="has-text-centered">
+					{{< img name="selfimprovhu.gif" class="glitch" nolazy=true width="500rem" svg=True >}}<br/>
+				</div>
+			{{< /column >}}
+			{{< column >}}
+				<h1 class="animate-off"><a href="https://iskolahack.hu">Magyar Self-Improvement</a></h1>
+				<p>This Discord server with {{< highlight >}}300+ people{{< /highlight >}} was built to facilitate the growth of the Hungarian self-improvement community.</p>
+				<p>Are you wondering about how I made a server so big in so little time?</p>
+				<p>I caught a very good wave: a bigger foreign server wanted to foster local branches.</p>
+				<p>Was I prepared?</p> 
+				<p>Did I know ahead that this opportunity will rise up, right?</p> 
+				<p>WRONG!</p>
+				<p>This was my very first server.</p>
+				<p>To this day this community is kept up by our valuable members, and we're going ahead together...</p>
+			{{< /column >}}
+		{{< /columns >}}
+	</div>
+	<br />
+	<div class="color0 decorate-link">
+		{{< columns vcentered=True color=1 class="little-padding" >}}
+			{{< column size="is-one-fifth" >}}
+				<div class="has-text-centered">
+					{{< img name="iskolahack.png" class="glitch" nolazy=true width="500rem" >}}<br/>
+				</div>
+			{{< /column >}}
+			{{< column >}}
+				<h1 class="animate-off"><a href="https://iskolahack.hu">IskolaHACK</a></h1>
+				<p>A community whose goal is to get students through the Hungarian education system as soon as possible.</p>
+				<p>I was always expected to excel with my academic results.</p>
+				<p>My parents will be forever in the belief that a diploma is the goal of life.</p>
+				<p>I guess it's good for showing that I attended something for 4 years...</p>
+				<p>I find it disgusting that an institution has the right to steal 20+ years from your life so you get some "general knowledge".</p>
+				<p>If we can't change the game, we've to change the players.</p>
+				<p>...and artifical intelligence just popped it's head up in the right moment...</p>
+			{{< /column >}}
+		{{< /columns >}}
+	</div>
 {{< /section >}}
 
 {{< section >}}
-	<h1 class="title">A történetem.</h1>
+	<h1 class="title">My story.</h1>
 	{{< columns vcentered=true >}}
 		{{< column size="is-one-quarter" >}}
 			{{< img name="kid.png" id=0 alt="Nem is olyan régen..." >}}
 		{{< /column >}}
 		{{< column >}}
-			<p>Mindennapjaim abból állnak hogy megfigyelem az emberek érdekes és szinte megmagyarázhatatlan viselkedését, majd sikeres szituációkat varázsolok belőle mindenkinek.</p>
-			<p>Vajon hogyan lesz {{< highlight >}}<b>egy kockából</b>{{< /highlight >}} aki egy légkondícionált, fehér céges irodában szeretne meghalni; kalandvágyó, erős, merész, {{< highlight >}}<b>értékes és ambíciózus ember{{< /highlight >}}?</b></p>
-			<p>Gyerekkoromban mindig lenéztek, legtöbbször nem is pesztráltak: <b>csak ignoráltak.</b></p>
-			<p>Hidd el nekem, <b>ez a férfiak 99%-nak a förtelmes élménye</b> egész életükben.</p>
-			<p>Elégszer szúrtak már hátba, elégszer buktam már el. Mégis mindig felkeltem a sárból.</p>
-			<p>A világ legszerencsésebb emberének érzem magam hogy sosem volt elég ha szimplán a kegyetlen sorsa hagyom magam.</p>
-			<p>Életemben nem nyertem idióta lottószelvényekkel, és ennek örülök.</p>
-			<p><b>Míg te vársz a sült galambra, én már fogtam 3 nyúlat.</b></p>
+			<p>My days consist of observing people's interesting and almost unexplainable behaviour, then creating win-win situations for all of us.</p>
+			<p>How in the world will a geek who just wanted to die in an air conditioned, white office; become an adventure-seeking, strong, brave, valuable and ambitious man?</p>
+			<p>In my childhood I was always looked down upon: not even bullied.</p>
+			<p>Just <b>ignored.</b></p>
+			<p>Believe me, 99% of man has this terrifying experience throughout their whole miserable lives.</p>
+			<p>I was backstabbed and failed in many ventures a lot.</p>
+			<p>...yet I always got up from the dust.</p>
+			<p>I consider myself to be the luckiest person alive simply for the fact that it was never enough to let the wind of fate carry me throughout my journey.</p>
+			<p>I've never won with retarded lottery tickets, and I'm proud of that.</p>
+			<p><b>While you wait for the grass to grow under your feet, I've built an empire..</b></p>
 		{{< /column >}}
 	{{< /columns >}}
 {{< /section >}}
@@ -123,9 +125,9 @@ summary: "Vári Gergő vagyok: digitális marketing szakértő, növekedési kon
 {{< section color=1 >}}
 	{{< columns vcentered=True >}}
 		{{< column >}}
-			<h1 class="title">{{< highlight >}}Foglalj le velem egy hívást{{< /highlight >}} hogy megbeszéljük az új terved.</h1>
-			<p>15 perc alatt elmondom hogyan tudsz eddigi vásárlóidból jobban <b>profitálni</b> és újakat bevonzani.</p>
-			<p>Nem várnék sokat a döntéssel, hiszen a vállalkozásod már elindult <b>lefelé a lejtőn...</b></p>
+			<h1 class="title">Let's {{< highlight >}}book a call{{< /highlight >}} so we can create your new plan.</h1>
+			<p>In 15 minutes we'll figure out how to monetize your existing customers and bring in new ones.</p>
+			<p>As I want to help you all of you to the best of my abilities, make sure to schedule with me as soon as possible: <b>I can close this opportunity at any moment.</b></p>
 		{{< /column >}}
 		{{< column >}}
 	<div class="calendly-inline-widget" data-url="https://calendly.com/gergovari/growth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&background_color=000&text_color=f2f2f2&primary_color=f2f2f2"></div>
@@ -137,8 +139,8 @@ summary: "Vári Gergő vagyok: digitális marketing szakértő, növekedési kon
 {{< section color=0 >}}
 	{{< columns vcentered=True >}}
 		{{< column >}}
-			<h1 class="title">Tartalom.</h1>
-			<span class="decorate-link"><h1 class="animate-off"><a href="https://blog.varigergo.hu/">Blogom</a></h1></span>
+			<h1 class="title">Content.</h1>
+			<span class="decorate-link"><h1 class="animate-off"><a href="https://blog.varigergo.hu/">My blog</a></h1></span>
 		{{< /column >}}
 		{{< column >}}
 			<div class="has-text-centered">
