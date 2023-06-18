@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>IF YOU HAD ENOUGH OF YOUR BUSINESS NOT GROWING... on Gergő Vári</title><link>https://varigergo.hu/en/</link><description>Recent content in IF YOU HAD ENOUGH OF YOUR BUSINESS NOT GROWING... on Gergő Vári</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 01 Mar 2023 11:06:18 +0100</lastBuildDate><atom:link href="https://varigergo.hu/en/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>IF YOU HAD ENOUGH OF YOUR BUSINESS NOT GROWING... on Gergő Vári</title><link>https://varigergo.hu/en/</link><description>Recent content in IF YOU HAD ENOUGH OF YOUR BUSINESS NOT GROWING... on Gergő Vári</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 01 Mar 2023 11:06:18 +0100</lastBuildDate><atom:link href="https://varigergo.hu/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Stripe</title><link>https://varigergo.hu/en/checkout/stripe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/en/checkout/stripe/</guid><description> Pay</description><content:encoded><![CDATA[<script src="https://js.stripe.com/v3/"></script>
+
+
+
+<script async src="/js/checkout/stripe.min.7ba7d5ccf139bb197d8ee678f60398b517f5d3a41aec09a9fff17a5682b3fdd3738a4791d9bd66214a9dae142dc73d36.js" data-key="pk_live_51MqVpzDJeSyRUjQe1jZ8WNZbhEaLL9QeZeJ4Svfkh7GM6n6va4IVRXLksYKePwL20WN71qwYdJMq85ploaYQAn5t005fDtR25L" data-backend="https://stripe.varigergo.hu" data-done="https://varigergo.hu/checkout-done/stripe" data-color-bg="%!s(<nil>)" data-color-text="%!s(<nil>)" data-color-accent="%!s(<nil>)" data-color-placeholder="%!s(<nil>)" integrity="sha384-e6fVzPE5uxl9juZ49gOYtRf106Qa7Amp//F6VoKz/dNzikeR2b1mIUqdrhQtxz02"></script>
+
+<div class="payment-holder payment-container">
+	<form id="payment-form">
+		<div id="link-authentication-element"></div>
+		<div id="payment-element"></div>
+		<button id="submit" class="button">
+			<div class="spinner hidden" id="spinner"></div>
+			<span id="button-text">Pay</span>
+		</button>
+		<div id="payment-message" class="hidden"></div>
+	</form>
+</div>
+
+]]></content:encoded></item><item><title>Jó úton vagy</title><link>https://varigergo.hu/en/thank-you/</link><pubDate>Thu, 02 Mar 2023 08:04:05 +0100</pubDate><guid>https://varigergo.hu/en/thank-you/</guid><description>AZ ELSŐ LÉPÉST MEGTETTED AZ ELSŐ LÉPÉST MEGTETTED AZ ELSŐ LÉPÉST MEGTETTED Hamarosan megkapod a tanításaim...</description><content:encoded><![CDATA[<div style="position: absolute; width: 100%; transform: translate(-50%, -50%); top: 50%; left: 50%; margin: 0;">
+	<div class="has-text-centered">
+	
+
+<link rel="stylesheet" href="/css/glitch.min.9c1d038c29d1450dbb67999521e1119c2ed64d9bc65a6dc559c7e4564f42593e14918dd8faccfad355d5e781927a7950.css" integrity="sha384-nB0DjCnRRQ27Z5mVIeERnC7WTZvGWm3FWcfkVk9CWT4UkY3Y&#43;sz601XV54GSenlQ">
+
+<div class="stack stacks">
+	<span class="i0"><h1 class="glitch-text title">AZ ELSŐ LÉPÉST MEGTETTED</h1></span>
+	<span class="i1"><h1 class="glitch-text title">AZ ELSŐ LÉPÉST MEGTETTED</h1></span>
+	<span class="i2"><h1 class="glitch-text title">AZ ELSŐ LÉPÉST MEGTETTED</h1></span>
+</div>
+
+	<p class="subtitle">Hamarosan megkapod a tanításaim...</p>
+</div>
+
+</div>
+
+]]></content:encoded></item><item><title/><link>https://varigergo.hu/en/signup/newsletter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/en/signup/newsletter/</guid><description>The SECRET to my market research. No, it&amp;rsquo;s not just &amp;ldquo;work hard for 2 hours&amp;rdquo;. Sign up here to get it.</description><content:encoded><![CDATA[<h1 id="the-hahahugoshortcodes0hbhb-to-my-market-research">The <span class="highlight">SECRET</span> to my market research.</h1>
+<h2 id="no-its-not-just-work-hard-for-2-hours">No, it&rsquo;s not just &ldquo;work hard for 2 hours&rdquo;.</h2>
+<h2 id="sign-up-here-to-get-it">Sign up here to get it.</h2>
+]]></content:encoded></item><item><title>AZ AUTOMATIZÁLÁS ALAPKÖVE.</title><link>https://varigergo.hu/en/videos/automation_programming/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/en/videos/automation_programming/</guid><description>Elég gyorsan eljutsz arra a szintre amikor automatizálod az életed hogy valami komolyabbat is csinálnod kell: ami már igényli a programozást. Segítek elindulni neked!</description><content:encoded>&lt;p>Elég gyorsan eljutsz arra a szintre amikor automatizálod az életed hogy valami komolyabbat is csinálnod kell: ami már igényli a programozást. Segítek elindulni neked!&lt;/p></content:encoded></item><item><title>How To Get Your Site Web3 Ready Without Getting Lost In The Process!</title><link>https://varigergo.hu/en/questionnaires/ask-web3-ready/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/en/questionnaires/ask-web3-ready/</guid><description>FREE Course: How To Get Your Site Web3 Ready Without Getting Lost In The Process!</description><content:encoded>&lt;p>FREE Course: How To Get Your Site Web3 Ready Without Getting Lost In The Process!&lt;/p></content:encoded></item><item><title>MINDEN VPN EGY ÁTVERÉS!</title><link>https://varigergo.hu/en/videos/own_vpn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/en/videos/own_vpn/</guid><description>Ne hagyd magad becsapni a hamis marketing állításokkal: az életedbe is kerülhet. A mai interneten nincs már anonimitás. Persze attól még lehet mire használni ezt a technológiát&amp;hellip; Építsd ki a saját infrastruktúrád!</description><content:encoded>&lt;p>Ne hagyd magad becsapni a hamis marketing állításokkal: az életedbe is kerülhet. A mai interneten nincs már anonimitás. Persze attól még lehet mire használni ezt a technológiát&amp;hellip; Építsd ki a saját infrastruktúrád!&lt;/p></content:encoded></item><item><title>Other payment methods</title><link>https://varigergo.hu/en/checkout/other/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/en/checkout/other/</guid><description>I can accept almost anything as payment, contact me (work@varigergo.hu) with your offer.
+Copy/screenshot/write down the contents of your cart for faster fullfilment.</description><content:encoded><![CDATA[<p>I can accept almost anything as payment, contact me (<strong><a href="mailto:work@varigergo.hu">work@varigergo.hu</a></strong>) with your offer.</p>
+<p>Copy/screenshot/write down the contents of your cart for faster fullfilment.</p>
+]]></content:encoded></item><item><title>ROMOKBAN A DIGITÁLIS ÉLETED!</title><link>https://varigergo.hu/en/videos/disaster_digital_life/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/en/videos/disaster_digital_life/</guid><description>Valamilyen módon függsz a technológiától? Online bizniszed van/lesz? Sajnos a kibervédelem sok helyen el van hanyagolva: ameddig meg nem történik a baj&amp;hellip; Bármikor támadás érheti a kastélyod!</description><content:encoded><![CDATA[<p>Valamilyen módon függsz a technológiától? Online bizniszed van/lesz? Sajnos <strong>a kibervédelem sok helyen el van hanyagolva: ameddig meg nem történik a baj&hellip;</strong> Bármikor támadás érheti a kastélyod!</p>
+]]></content:encoded></item><item><title>Stripe retúr</title><link>https://varigergo.hu/en/checkout-done/stripe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://varigergo.hu/en/checkout-done/stripe/</guid><description> Várakozás a visszajelzésre... Már bezárhatod ezt az ablakot: e-mailben értesítelek.</description><content:encoded><![CDATA[
+
+<script  src="/js/checkout-done/stripe.min.09514f6b6d6cff9872c06415c687993eae67c6e6aab32ce17659887dbf6eff5c0943182908cb7efd4452cb0f7a69d37e.js"  integrity="sha384-CVFPa21s/5hywGQVxoeZPq5nxuaqsyzhdlmIfb9u/1wJQxgpCMt&#43;/URSyw96adN&#43;"></script>
+
+<div id="response-container">
+	<h1 id="response-title" class="title">Várakozás a visszajelzésre...</h1>
+	<h2 id="response-subtitle" class="subtitle">Már bezárhatod ezt az ablakot: e-mailben értesítelek.</h2>
+</div>
+
+]]></content:encoded></item></channel></rss>
