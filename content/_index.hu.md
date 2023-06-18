@@ -18,17 +18,7 @@ summary: "Vári Gergő vagyok: digitális marketing szakértő, növekedési kon
 {{< /section >}}
 
 {{< section color=1 >}}
-	{{< columns vcentered=True >}}
-		{{< column >}}
-			<h1 class="title">{{< highlight >}}Foglalj le velem egy hívást{{< /highlight >}} hogy megbeszéljük az új terved.</h1>
-			<p>15 perc alatt elmondom hogyan tudsz eddigi vásárlóidból jobban <b>profitálni</b> és újakat bevonzani.</p>
-			<p>Nem várnék sokat a döntéssel, hiszen a vállalkozásod már elindult <b>lefelé a lejtőn...</b></p>
-		{{< /column >}}
-		{{< column >}}
-	<div class="calendly-inline-widget" data-url="https://calendly.com/gergovari/growth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&background_color=000&text_color=f2f2f2&primary_color=f2f2f2"></div>
-	<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-		{{< /column >}}
-	{{< /columns >}}
+	{{< signup "newsletter" >}}
 {{< /section >}}
 
 {{< section color=0 class="no-padding" >}}
@@ -121,17 +111,7 @@ summary: "Vári Gergő vagyok: digitális marketing szakértő, növekedési kon
 {{< /section >}}
 
 {{< section color=1 >}}
-	{{< columns vcentered=True >}}
-		{{< column >}}
-			<h1 class="title">{{< highlight >}}Foglalj le velem egy hívást{{< /highlight >}} hogy megbeszéljük az új terved.</h1>
-			<p>15 perc alatt elmondom hogyan tudsz eddigi vásárlóidból jobban <b>profitálni</b> és újakat bevonzani.</p>
-			<p>Nem várnék sokat a döntéssel, hiszen a vállalkozásod már elindult <b>lefelé a lejtőn...</b></p>
-		{{< /column >}}
-		{{< column >}}
-	<div class="calendly-inline-widget" data-url="https://calendly.com/gergovari/growth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&background_color=000&text_color=f2f2f2&primary_color=f2f2f2"></div>
-	<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-		{{< /column >}}
-	{{< /columns >}}
+	{{< signup "newsletter" >}}
 {{< /section >}}
 
 {{< section color=0 >}}

@@ -18,17 +18,7 @@ summary: "I'm Gergő Vári (Greg for short): digital marketing expert, growth co
 {{< /section >}}
 
 {{< section color=1 >}}
-	{{< columns vcentered=True >}}
-		{{< column >}}
-			<h1 class="title">Let's {{< highlight >}}book a call{{< /highlight >}} so we can create your new plan.</h1>
-			<p>In 15 minutes we'll figure out how to monetize your existing customers and bring in new ones.</p>
-			<p>As I want to help you all of you to the best of my abilities, make sure to schedule with me as soon as possible: <b>I can close this opportunity at any moment.</b></p>
-		{{< /column >}}
-		{{< column >}}
-	<div class="calendly-inline-widget" data-url="https://calendly.com/gergovari/growth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&background_color=000&text_color=f2f2f2&primary_color=f2f2f2"></div>
-	<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-		{{< /column >}}
-	{{< /columns >}}
+	{{< signup "newsletter" >}}
 {{< /section >}}
 
 {{< section color=0 class="no-padding" >}}
@@ -113,27 +103,17 @@ summary: "I'm Gergő Vári (Greg for short): digital marketing expert, growth co
 			<p>In my childhood I was always looked down upon: not even bullied.</p>
 			<p>Just <b>ignored.</b></p>
 			<p>Believe me, 99% of man has this terrifying experience throughout their whole miserable lives.</p>
-			<p>I was backstabbed and failed in many ventures a lot.</p>
+			<p>I was backstabbed and failed in many ventures a lot...</p>
 			<p>...yet I always got up from the dust.</p>
 			<p>I consider myself to be the luckiest person alive simply for the fact that it was never enough to let the wind of fate carry me throughout my journey.</p>
 			<p>I've never won with retarded lottery tickets, and I'm proud of that.</p>
-			<p><b>While you wait for the grass to grow under your feet, I've built an empire..</b></p>
+			<p><b>While you wait for the grass to grow under your feet, I've built an empire...</b></p>
 		{{< /column >}}
 	{{< /columns >}}
 {{< /section >}}
 
 {{< section color=1 >}}
-	{{< columns vcentered=True >}}
-		{{< column >}}
-			<h1 class="title">Let's {{< highlight >}}book a call{{< /highlight >}} so we can create your new plan.</h1>
-			<p>In 15 minutes we'll figure out how to monetize your existing customers and bring in new ones.</p>
-			<p>As I want to help you all of you to the best of my abilities, make sure to schedule with me as soon as possible: <b>I can close this opportunity at any moment.</b></p>
-		{{< /column >}}
-		{{< column >}}
-	<div class="calendly-inline-widget" data-url="https://calendly.com/gergovari/growth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&background_color=000&text_color=f2f2f2&primary_color=f2f2f2"></div>
-	<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-		{{< /column >}}
-	{{< /columns >}}
+	{{< signup "newsletter" >}}
 {{< /section >}}
 
 {{< section color=0 >}}
