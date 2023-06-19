@@ -132,3 +132,5 @@ github.com/vyberd/vyberpunk v0.0.0-20230618072441-9f8eff239756 h1:0V4kM5dPjlS48+
 github.com/vyberd/vyberpunk v0.0.0-20230618072441-9f8eff239756/go.mod h1:MOpBPPdGWSpezXNwXAtgA+2LqVOMxfZyGwgMwyqdrmg=
 github.com/vyberd/vyberpunk v0.0.0-20230618072730-2089b9fd89cd h1:WJ2+xTD1r97agfjJajabrd48PpBuZbHTTDDo1eznzh4=
 github.com/vyberd/vyberpunk v0.0.0-20230618072730-2089b9fd89cd/go.mod h1:TQ1Sj9xNvW0ul3nIrEYrts/5XSrFOFbO0vnk/gAjofc=
+github.com/vyberd/vyberpunk v0.0.0-20230619103106-784c31e1f991 h1:Zv5iYauTnXdaMC8KSZoeYKuZsAttAw7NdRugPQRly54=
+github.com/vyberd/vyberpunk v0.0.0-20230619103106-784c31e1f991/go.mod h1:TQ1Sj9xNvW0ul3nIrEYrts/5XSrFOFbO0vnk/gAjofc=
