@@ -1,10 +1,10 @@
 ---
-title: "IF YOU HAD ENOUGH OF YOUR BUSINESS NOT GROWING..."
+title: "IF YOU'RE LOST IN THE COACHING NICHE..."
 date: 2023-03-01T11:06:18+01:00
-summary: "I'm Gergő Vári (Greg for short): digital marketing expert, growth consultant, and rebel."
+summary: "I'm Gergő Vári (Greg for short) a digital marketing expert and growth consultant for coaches."
 ---
 {{< section >}}
-	{{< index/title "IF YOU HAD ENOUGH OF YOUR BUSINESS NOT GROWING..." "...then we need to talk." "If you're not growing, you're failing." >}}
+	{{< index/title "IF YOU'RE LOST IN THE COACHING NICHE..." "...then get the SECRET of client acquisition here." "You could be making a lot more already." >}}
 {{< /section >}}
 
 {{< section color=0 >}}
@@ -28,7 +28,7 @@ summary: "I'm Gergő Vári (Greg for short): digital marketing expert, growth co
 				<h1 class="title">Who am I?</h1>
 				{{< columns class="is-flex-direction-column">}}
 					{{< column >}}
-						I'm Gergő Vári (Greg for short): digital marketing expert, growth consultant, and rebel.
+						I'm Gergő Vári (Greg for short) a digital marketing expert and growth consultant for coaches.
 					{{< /column >}}
 					{{< column >}}
 						I wield words as a sword and I sharpen it with perspicacity.
