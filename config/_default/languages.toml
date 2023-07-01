@@ -1,0 +1,7 @@
+[en]
+	languageName = "English"
+	weight = 0
+
+[hu]
+	languageName = "Magyar"
+	weight = 1
