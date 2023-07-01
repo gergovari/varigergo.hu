@@ -1,9 +1,6 @@
 baseURL = 'https://varigergo.hu/'
 title = 'Gergő Vári'
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
-
 [module]
 	[[module.imports]]
 	path = "github.com/vyberd/vyberpunk"
