@@ -4,6 +4,8 @@ github.com/gergovari/varigergo-shared v0.0.0-20230607093537-8dbed693f657 h1:EgBZ
 github.com/gergovari/varigergo-shared v0.0.0-20230607093537-8dbed693f657/go.mod h1:QbJp6KDTRQFbgC/YIKEXYEhdvBec2wfU+cclaMqV5Ig=
 github.com/gergovari/varigergo-shared v0.0.0-20230618105540-fd7214b77d95 h1:fDqwcnGZL6dir7iKjw3XmiM+pE6VNeTPN6hKJCq1F5c=
 github.com/gergovari/varigergo-shared v0.0.0-20230618105540-fd7214b77d95/go.mod h1:QbJp6KDTRQFbgC/YIKEXYEhdvBec2wfU+cclaMqV5Ig=
+github.com/gergovari/varigergo-shared v0.0.0-20230701121715-020ae4534afa h1:w1kKwGTOYQs82Eessx9UtSITXXFC2WcKm7HMqfyTldE=
+github.com/gergovari/varigergo-shared v0.0.0-20230701121715-020ae4534afa/go.mod h1:QbJp6KDTRQFbgC/YIKEXYEhdvBec2wfU+cclaMqV5Ig=
 github.com/vyberd/animation v0.0.0-20230508074719-6039ef50f748 h1:BbmC+Gtvkdf48HPmLfZwYOUTylpxwq9sQAvZ3LhEEPo=
 github.com/vyberd/animation v0.0.0-20230508074719-6039ef50f748/go.mod h1:qAS+FerjvdbAVYxJf3ABbBdX5jjnILVclfBwxJC4UmA=
 github.com/vyberd/animation v0.0.0-20230508132901-479aeb059716 h1:FJp0ahY9tDvRFzbfJVpzc582T1AqWvSSHI1WPsXMiuM=
