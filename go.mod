@@ -14,7 +14,7 @@ require (
 	github.com/vyberd/input v0.0.0-20230521095803-e7f93492ad62 // indirect
 	github.com/vyberd/navbar v0.0.0-20230618072321-9fafc8feef46 // indirect
 	github.com/vyberd/popup v0.0.0-20230516082211-a0f3df56cda0 // indirect
-	github.com/vyberd/questionnaires v0.0.0-20230521095811-36b25d3e94ae // indirect
+	github.com/vyberd/questionnaires v0.0.0-20230701124647-054d31e1f3f7 // indirect
 	github.com/vyberd/stylesheet v0.0.0-20230508132951-d62b845355ed // indirect
 	github.com/vyberd/tracking v0.0.0-20230516082221-f06cea848f6f // indirect
 	github.com/vyberd/vyberpunk v0.0.0-20230619121122-667858f1c41d // indirect

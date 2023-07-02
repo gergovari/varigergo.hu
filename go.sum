@@ -92,6 +92,8 @@ github.com/vyberd/questionnaires v0.0.0-20230513064715-beb27534b482 h1:kAGFcVth3
 github.com/vyberd/questionnaires v0.0.0-20230513064715-beb27534b482/go.mod h1:PecdiJrVRXaUm8TTCETBfk/1UrhY5uc+sUGpLhz7e2A=
 github.com/vyberd/questionnaires v0.0.0-20230521095811-36b25d3e94ae h1:gnXvBTaoRl2/Ybwo4ZFKuZmPHi3F/vc9H4ulXveV/rY=
 github.com/vyberd/questionnaires v0.0.0-20230521095811-36b25d3e94ae/go.mod h1:37jkOf3ae6l6HDL2afLjJom43UjZGVl3kFqvE4V0qBk=
+github.com/vyberd/questionnaires v0.0.0-20230701124647-054d31e1f3f7 h1:pOfjcrByLsn0T31SWw/DgNT+U+09y4h6Z3B/CnhKUj0=
+github.com/vyberd/questionnaires v0.0.0-20230701124647-054d31e1f3f7/go.mod h1:37jkOf3ae6l6HDL2afLjJom43UjZGVl3kFqvE4V0qBk=
 github.com/vyberd/stylesheet v0.0.0-20230508130157-e93394cab397 h1:uUQKe8f5aRRuYMI32jpOvBQ70Dro4mL5mjxN6dNb8Pc=
 github.com/vyberd/stylesheet v0.0.0-20230508130157-e93394cab397/go.mod h1:jrD+CjwvTp7At11ZXIyv0fWTaVy9V/RLLwUui5n0KEI=
 github.com/vyberd/stylesheet v0.0.0-20230508132951-d62b845355ed h1:LO6wO57O4M8mahqwkQcbJlDFR+V9nftTtX9dpUFqlcc=
