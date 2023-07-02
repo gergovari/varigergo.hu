@@ -1,6 +1,6 @@
 ---
 noNavbar: True
-title: "Why Creating A Hero Makes Your Tweet Go Viral..."
+title: "The story structure that turns people into MONEY"
 id: 8
 ---
 Meet The Hero's Journey.
