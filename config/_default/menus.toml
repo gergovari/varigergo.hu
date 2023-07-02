@@ -8,8 +8,8 @@
 	weight = 10
 [[start]]
 	name = "twitter"
-	url = "https://instagram.com/gergo_vari"
-	weight = 19
+	url = "https://twitter.com/powerwritergreg"
+	weight = 18
 	parent = "social media"
 [[start]]
 	name = "instagram"
